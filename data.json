@@ -1,0 +1,458 @@
+[
+ {
+  "Year": 1950,
+  "Zodiac": "Tiger",
+  "Element": "Metal",
+  "Personality Traits": "Brave, confident, competitive; Determined, disciplined, strong-willed"
+ },
+ {
+  "Year": 1951,
+  "Zodiac": "Rabbit",
+  "Element": "Metal",
+  "Personality Traits": "Gentle, kind, alert; Determined, disciplined, strong-willed"
+ },
+ {
+  "Year": 1952,
+  "Zodiac": "Dragon",
+  "Element": "Water",
+  "Personality Traits": "Ambitious, charismatic, energetic; Wise, flexible, introspective"
+ },
+ {
+  "Year": 1953,
+  "Zodiac": "Snake",
+  "Element": "Water",
+  "Personality Traits": "Wise, mysterious, graceful; Wise, flexible, introspective"
+ },
+ {
+  "Year": 1954,
+  "Zodiac": "Horse",
+  "Element": "Wood",
+  "Personality Traits": "Energetic, free-spirited, impatient; Kind, idealistic, cooperative"
+ },
+ {
+  "Year": 1955,
+  "Zodiac": "Goat",
+  "Element": "Wood",
+  "Personality Traits": "Creative, kind, sensitive; Kind, idealistic, cooperative"
+ },
+ {
+  "Year": 1956,
+  "Zodiac": "Monkey",
+  "Element": "Fire",
+  "Personality Traits": "Witty, curious, playful; Passionate, dynamic, temperamental"
+ },
+ {
+  "Year": 1957,
+  "Zodiac": "Rooster",
+  "Element": "Fire",
+  "Personality Traits": "Honest, organized, decisive; Passionate, dynamic, temperamental"
+ },
+ {
+  "Year": 1958,
+  "Zodiac": "Dog",
+  "Element": "Earth",
+  "Personality Traits": "Loyal, cautious, protective; Stable, reliable, nurturing"
+ },
+ {
+  "Year": 1959,
+  "Zodiac": "Pig",
+  "Element": "Earth",
+  "Personality Traits": "Generous, easy-going, honest; Stable, reliable, nurturing"
+ },
+ {
+  "Year": 1960,
+  "Zodiac": "Rat",
+  "Element": "Metal",
+  "Personality Traits": "Clever, resourceful, adaptable; Determined, disciplined, strong-willed"
+ },
+ {
+  "Year": 1961,
+  "Zodiac": "Ox",
+  "Element": "Metal",
+  "Personality Traits": "Reliable, strong, patient; Determined, disciplined, strong-willed"
+ },
+ {
+  "Year": 1962,
+  "Zodiac": "Tiger",
+  "Element": "Water",
+  "Personality Traits": "Brave, confident, competitive; Wise, flexible, introspective"
+ },
+ {
+  "Year": 1963,
+  "Zodiac": "Rabbit",
+  "Element": "Water",
+  "Personality Traits": "Gentle, kind, alert; Wise, flexible, introspective"
+ },
+ {
+  "Year": 1964,
+  "Zodiac": "Dragon",
+  "Element": "Wood",
+  "Personality Traits": "Ambitious, charismatic, energetic; Kind, idealistic, cooperative"
+ },
+ {
+  "Year": 1965,
+  "Zodiac": "Snake",
+  "Element": "Wood",
+  "Personality Traits": "Wise, mysterious, graceful; Kind, idealistic, cooperative"
+ },
+ {
+  "Year": 1966,
+  "Zodiac": "Horse",
+  "Element": "Fire",
+  "Personality Traits": "Energetic, free-spirited, impatient; Passionate, dynamic, temperamental"
+ },
+ {
+  "Year": 1967,
+  "Zodiac": "Goat",
+  "Element": "Fire",
+  "Personality Traits": "Creative, kind, sensitive; Passionate, dynamic, temperamental"
+ },
+ {
+  "Year": 1968,
+  "Zodiac": "Monkey",
+  "Element": "Earth",
+  "Personality Traits": "Witty, curious, playful; Stable, reliable, nurturing"
+ },
+ {
+  "Year": 1969,
+  "Zodiac": "Rooster",
+  "Element": "Earth",
+  "Personality Traits": "Honest, organized, decisive; Stable, reliable, nurturing"
+ },
+ {
+  "Year": 1970,
+  "Zodiac": "Dog",
+  "Element": "Metal",
+  "Personality Traits": "Loyal, cautious, protective; Determined, disciplined, strong-willed"
+ },
+ {
+  "Year": 1971,
+  "Zodiac": "Pig",
+  "Element": "Metal",
+  "Personality Traits": "Generous, easy-going, honest; Determined, disciplined, strong-willed"
+ },
+ {
+  "Year": 1972,
+  "Zodiac": "Rat",
+  "Element": "Water",
+  "Personality Traits": "Clever, resourceful, adaptable; Wise, flexible, introspective"
+ },
+ {
+  "Year": 1973,
+  "Zodiac": "Ox",
+  "Element": "Water",
+  "Personality Traits": "Reliable, strong, patient; Wise, flexible, introspective"
+ },
+ {
+  "Year": 1974,
+  "Zodiac": "Tiger",
+  "Element": "Wood",
+  "Personality Traits": "Brave, confident, competitive; Kind, idealistic, cooperative"
+ },
+ {
+  "Year": 1975,
+  "Zodiac": "Rabbit",
+  "Element": "Wood",
+  "Personality Traits": "Gentle, kind, alert; Kind, idealistic, cooperative"
+ },
+ {
+  "Year": 1976,
+  "Zodiac": "Dragon",
+  "Element": "Fire",
+  "Personality Traits": "Ambitious, charismatic, energetic; Passionate, dynamic, temperamental"
+ },
+ {
+  "Year": 1977,
+  "Zodiac": "Snake",
+  "Element": "Fire",
+  "Personality Traits": "Wise, mysterious, graceful; Passionate, dynamic, temperamental"
+ },
+ {
+  "Year": 1978,
+  "Zodiac": "Horse",
+  "Element": "Earth",
+  "Personality Traits": "Energetic, free-spirited, impatient; Stable, reliable, nurturing"
+ },
+ {
+  "Year": 1979,
+  "Zodiac": "Goat",
+  "Element": "Earth",
+  "Personality Traits": "Creative, kind, sensitive; Stable, reliable, nurturing"
+ },
+ {
+  "Year": 1980,
+  "Zodiac": "Monkey",
+  "Element": "Metal",
+  "Personality Traits": "Witty, curious, playful; Determined, disciplined, strong-willed"
+ },
+ {
+  "Year": 1981,
+  "Zodiac": "Rooster",
+  "Element": "Metal",
+  "Personality Traits": "Honest, organized, decisive; Determined, disciplined, strong-willed"
+ },
+ {
+  "Year": 1982,
+  "Zodiac": "Dog",
+  "Element": "Water",
+  "Personality Traits": "Loyal, cautious, protective; Wise, flexible, introspective"
+ },
+ {
+  "Year": 1983,
+  "Zodiac": "Pig",
+  "Element": "Water",
+  "Personality Traits": "Generous, easy-going, honest; Wise, flexible, introspective"
+ },
+ {
+  "Year": 1984,
+  "Zodiac": "Rat",
+  "Element": "Wood",
+  "Personality Traits": "Clever, resourceful, adaptable; Kind, idealistic, cooperative"
+ },
+ {
+  "Year": 1985,
+  "Zodiac": "Ox",
+  "Element": "Wood",
+  "Personality Traits": "Reliable, strong, patient; Kind, idealistic, cooperative"
+ },
+ {
+  "Year": 1986,
+  "Zodiac": "Tiger",
+  "Element": "Fire",
+  "Personality Traits": "Brave, confident, competitive; Passionate, dynamic, temperamental"
+ },
+ {
+  "Year": 1987,
+  "Zodiac": "Rabbit",
+  "Element": "Fire",
+  "Personality Traits": "Gentle, kind, alert; Passionate, dynamic, temperamental"
+ },
+ {
+  "Year": 1988,
+  "Zodiac": "Dragon",
+  "Element": "Earth",
+  "Personality Traits": "Ambitious, charismatic, energetic; Stable, reliable, nurturing"
+ },
+ {
+  "Year": 1989,
+  "Zodiac": "Snake",
+  "Element": "Earth",
+  "Personality Traits": "Wise, mysterious, graceful; Stable, reliable, nurturing"
+ },
+ {
+  "Year": 1990,
+  "Zodiac": "Horse",
+  "Element": "Metal",
+  "Personality Traits": "Energetic, free-spirited, impatient; Determined, disciplined, strong-willed"
+ },
+ {
+  "Year": 1991,
+  "Zodiac": "Goat",
+  "Element": "Metal",
+  "Personality Traits": "Creative, kind, sensitive; Determined, disciplined, strong-willed"
+ },
+ {
+  "Year": 1992,
+  "Zodiac": "Monkey",
+  "Element": "Water",
+  "Personality Traits": "Witty, curious, playful; Wise, flexible, introspective"
+ },
+ {
+  "Year": 1993,
+  "Zodiac": "Rooster",
+  "Element": "Water",
+  "Personality Traits": "Honest, organized, decisive; Wise, flexible, introspective"
+ },
+ {
+  "Year": 1994,
+  "Zodiac": "Dog",
+  "Element": "Wood",
+  "Personality Traits": "Loyal, cautious, protective; Kind, idealistic, cooperative"
+ },
+ {
+  "Year": 1995,
+  "Zodiac": "Pig",
+  "Element": "Wood",
+  "Personality Traits": "Generous, easy-going, honest; Kind, idealistic, cooperative"
+ },
+ {
+  "Year": 1996,
+  "Zodiac": "Rat",
+  "Element": "Fire",
+  "Personality Traits": "Clever, resourceful, adaptable; Passionate, dynamic, temperamental"
+ },
+ {
+  "Year": 1997,
+  "Zodiac": "Ox",
+  "Element": "Fire",
+  "Personality Traits": "Reliable, strong, patient; Passionate, dynamic, temperamental"
+ },
+ {
+  "Year": 1998,
+  "Zodiac": "Tiger",
+  "Element": "Earth",
+  "Personality Traits": "Brave, confident, competitive; Stable, reliable, nurturing"
+ },
+ {
+  "Year": 1999,
+  "Zodiac": "Rabbit",
+  "Element": "Earth",
+  "Personality Traits": "Gentle, kind, alert; Stable, reliable, nurturing"
+ },
+ {
+  "Year": 2000,
+  "Zodiac": "Dragon",
+  "Element": "Metal",
+  "Personality Traits": "Ambitious, charismatic, energetic; Determined, disciplined, strong-willed"
+ },
+ {
+  "Year": 2001,
+  "Zodiac": "Snake",
+  "Element": "Metal",
+  "Personality Traits": "Wise, mysterious, graceful; Determined, disciplined, strong-willed"
+ },
+ {
+  "Year": 2002,
+  "Zodiac": "Horse",
+  "Element": "Water",
+  "Personality Traits": "Energetic, free-spirited, impatient; Wise, flexible, introspective"
+ },
+ {
+  "Year": 2003,
+  "Zodiac": "Goat",
+  "Element": "Water",
+  "Personality Traits": "Creative, kind, sensitive; Wise, flexible, introspective"
+ },
+ {
+  "Year": 2004,
+  "Zodiac": "Monkey",
+  "Element": "Wood",
+  "Personality Traits": "Witty, curious, playful; Kind, idealistic, cooperative"
+ },
+ {
+  "Year": 2005,
+  "Zodiac": "Rooster",
+  "Element": "Wood",
+  "Personality Traits": "Honest, organized, decisive; Kind, idealistic, cooperative"
+ },
+ {
+  "Year": 2006,
+  "Zodiac": "Dog",
+  "Element": "Fire",
+  "Personality Traits": "Loyal, cautious, protective; Passionate, dynamic, temperamental"
+ },
+ {
+  "Year": 2007,
+  "Zodiac": "Pig",
+  "Element": "Fire",
+  "Personality Traits": "Generous, easy-going, honest; Passionate, dynamic, temperamental"
+ },
+ {
+  "Year": 2008,
+  "Zodiac": "Rat",
+  "Element": "Earth",
+  "Personality Traits": "Clever, resourceful, adaptable; Stable, reliable, nurturing"
+ },
+ {
+  "Year": 2009,
+  "Zodiac": "Ox",
+  "Element": "Earth",
+  "Personality Traits": "Reliable, strong, patient; Stable, reliable, nurturing"
+ },
+ {
+  "Year": 2010,
+  "Zodiac": "Tiger",
+  "Element": "Metal",
+  "Personality Traits": "Brave, confident, competitive; Determined, disciplined, strong-willed"
+ },
+ {
+  "Year": 2011,
+  "Zodiac": "Rabbit",
+  "Element": "Metal",
+  "Personality Traits": "Gentle, kind, alert; Determined, disciplined, strong-willed"
+ },
+ {
+  "Year": 2012,
+  "Zodiac": "Dragon",
+  "Element": "Water",
+  "Personality Traits": "Ambitious, charismatic, energetic; Wise, flexible, introspective"
+ },
+ {
+  "Year": 2013,
+  "Zodiac": "Snake",
+  "Element": "Water",
+  "Personality Traits": "Wise, mysterious, graceful; Wise, flexible, introspective"
+ },
+ {
+  "Year": 2014,
+  "Zodiac": "Horse",
+  "Element": "Wood",
+  "Personality Traits": "Energetic, free-spirited, impatient; Kind, idealistic, cooperative"
+ },
+ {
+  "Year": 2015,
+  "Zodiac": "Goat",
+  "Element": "Wood",
+  "Personality Traits": "Creative, kind, sensitive; Kind, idealistic, cooperative"
+ },
+ {
+  "Year": 2016,
+  "Zodiac": "Monkey",
+  "Element": "Fire",
+  "Personality Traits": "Witty, curious, playful; Passionate, dynamic, temperamental"
+ },
+ {
+  "Year": 2017,
+  "Zodiac": "Rooster",
+  "Element": "Fire",
+  "Personality Traits": "Honest, organized, decisive; Passionate, dynamic, temperamental"
+ },
+ {
+  "Year": 2018,
+  "Zodiac": "Dog",
+  "Element": "Earth",
+  "Personality Traits": "Loyal, cautious, protective; Stable, reliable, nurturing"
+ },
+ {
+  "Year": 2019,
+  "Zodiac": "Pig",
+  "Element": "Earth",
+  "Personality Traits": "Generous, easy-going, honest; Stable, reliable, nurturing"
+ },
+ {
+  "Year": 2020,
+  "Zodiac": "Rat",
+  "Element": "Metal",
+  "Personality Traits": "Clever, resourceful, adaptable; Determined, disciplined, strong-willed"
+ },
+ {
+  "Year": 2021,
+  "Zodiac": "Ox",
+  "Element": "Metal",
+  "Personality Traits": "Reliable, strong, patient; Determined, disciplined, strong-willed"
+ },
+ {
+  "Year": 2022,
+  "Zodiac": "Tiger",
+  "Element": "Water",
+  "Personality Traits": "Brave, confident, competitive; Wise, flexible, introspective"
+ },
+ {
+  "Year": 2023,
+  "Zodiac": "Rabbit",
+  "Element": "Water",
+  "Personality Traits": "Gentle, kind, alert; Wise, flexible, introspective"
+ },
+ {
+  "Year": 2024,
+  "Zodiac": "Dragon",
+  "Element": "Wood",
+  "Personality Traits": "Ambitious, charismatic, energetic; Kind, idealistic, cooperative"
+ },
+ {
+  "Year": 2025,
+  "Zodiac": "Snake",
+  "Element": "Wood",
+  "Personality Traits": "Wise, mysterious, graceful; Kind, idealistic, cooperative"
+ }
+]
