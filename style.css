@@ -129,7 +129,7 @@ button.danger {
 
 #result h2 {
   margin: 10px 0;
-  font-size: 30px;
+  font-size: 20px;
   font-weight: 500;
 }
 
@@ -155,12 +155,13 @@ button.danger {
   font-size: 40px;
   color: #2c3e50;
   margin-bottom: 10px;
+  text-align: center;
   font-weight: 600;
 }
 
 .result {
   color: #34495e;
-  font-size: 30px;
+  font-size: 20px;
   text-align: center;
   line-height: 1.5;
 }
@@ -334,6 +335,7 @@ button.danger {
 .history-zodiac {
   color: #7f8c8d;
   font-size: 14px;
+  text-align: left;
 }
 
 .delete-entry-btn {
