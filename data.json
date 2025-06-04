@@ -1,458 +1,1190 @@
 [
  {
-  "Year": 1950,
-  "Zodiac": "Tiger",
-  "Element": "Metal",
-  "Personality Traits": "Brave, confident, competitive; Determined, disciplined, strong-willed"
- },
- {
-  "Year": 1951,
-  "Zodiac": "Rabbit",
-  "Element": "Metal",
-  "Personality Traits": "Gentle, kind, alert; Determined, disciplined, strong-willed"
- },
- {
-  "Year": 1952,
-  "Zodiac": "Dragon",
-  "Element": "Water",
-  "Personality Traits": "Ambitious, charismatic, energetic; Wise, flexible, introspective"
- },
- {
-  "Year": 1953,
-  "Zodiac": "Snake",
-  "Element": "Water",
-  "Personality Traits": "Wise, mysterious, graceful; Wise, flexible, introspective"
- },
- {
-  "Year": 1954,
-  "Zodiac": "Horse",
-  "Element": "Wood",
-  "Personality Traits": "Energetic, free-spirited, impatient; Kind, idealistic, cooperative"
- },
- {
-  "Year": 1955,
-  "Zodiac": "Goat",
-  "Element": "Wood",
-  "Personality Traits": "Creative, kind, sensitive; Kind, idealistic, cooperative"
- },
- {
-  "Year": 1956,
-  "Zodiac": "Monkey",
-  "Element": "Fire",
-  "Personality Traits": "Witty, curious, playful; Passionate, dynamic, temperamental"
- },
- {
-  "Year": 1957,
-  "Zodiac": "Rooster",
-  "Element": "Fire",
-  "Personality Traits": "Honest, organized, decisive; Passionate, dynamic, temperamental"
- },
- {
-  "Year": 1958,
-  "Zodiac": "Dog",
-  "Element": "Earth",
-  "Personality Traits": "Loyal, cautious, protective; Stable, reliable, nurturing"
- },
- {
-  "Year": 1959,
-  "Zodiac": "Pig",
-  "Element": "Earth",
-  "Personality Traits": "Generous, easy-going, honest; Stable, reliable, nurturing"
- },
- {
-  "Year": 1960,
   "Zodiac": "Rat",
-  "Element": "Metal",
-  "Personality Traits": "Clever, resourceful, adaptable; Determined, disciplined, strong-willed"
- },
- {
-  "Year": 1961,
-  "Zodiac": "Ox",
-  "Element": "Metal",
-  "Personality Traits": "Reliable, strong, patient; Determined, disciplined, strong-willed"
- },
- {
-  "Year": 1962,
-  "Zodiac": "Tiger",
+  "Start Date": "1924-02-05",
+  "End Date": "1925-01-24",
+  "Years": "1936, 1948, 1960, 1972, 1984, 1996, 2008, 2020",
   "Element": "Water",
-  "Personality Traits": "Brave, confident, competitive; Wise, flexible, introspective"
+  "Qualities": "Intelligent, adaptable, sociable, ambitious",
+  "Weaknesses": "Impulsive, stubborn, opportunistic",
+  "Most Compatible": "Ox, Dragon, Monkey",
+  "Least Compatible": "Horse, Rabbit, Rooster"
  },
  {
-  "Year": 1963,
-  "Zodiac": "Rabbit",
-  "Element": "Water",
-  "Personality Traits": "Gentle, kind, alert; Wise, flexible, introspective"
- },
- {
-  "Year": 1964,
-  "Zodiac": "Dragon",
-  "Element": "Wood",
-  "Personality Traits": "Ambitious, charismatic, energetic; Kind, idealistic, cooperative"
- },
- {
-  "Year": 1965,
-  "Zodiac": "Snake",
-  "Element": "Wood",
-  "Personality Traits": "Wise, mysterious, graceful; Kind, idealistic, cooperative"
- },
- {
-  "Year": 1966,
-  "Zodiac": "Horse",
-  "Element": "Fire",
-  "Personality Traits": "Energetic, free-spirited, impatient; Passionate, dynamic, temperamental"
- },
- {
-  "Year": 1967,
-  "Zodiac": "Goat",
-  "Element": "Fire",
-  "Personality Traits": "Creative, kind, sensitive; Passionate, dynamic, temperamental"
- },
- {
-  "Year": 1968,
-  "Zodiac": "Monkey",
-  "Element": "Earth",
-  "Personality Traits": "Witty, curious, playful; Stable, reliable, nurturing"
- },
- {
-  "Year": 1969,
-  "Zodiac": "Rooster",
-  "Element": "Earth",
-  "Personality Traits": "Honest, organized, decisive; Stable, reliable, nurturing"
- },
- {
-  "Year": 1970,
-  "Zodiac": "Dog",
-  "Element": "Metal",
-  "Personality Traits": "Loyal, cautious, protective; Determined, disciplined, strong-willed"
- },
- {
-  "Year": 1971,
-  "Zodiac": "Pig",
-  "Element": "Metal",
-  "Personality Traits": "Generous, easy-going, honest; Determined, disciplined, strong-willed"
- },
- {
-  "Year": 1972,
   "Zodiac": "Rat",
+  "Start Date": "1936-01-24",
+  "End Date": "1937-02-10",
+  "Years": "1936, 1948, 1960, 1972, 1984, 1996, 2008, 2020",
   "Element": "Water",
-  "Personality Traits": "Clever, resourceful, adaptable; Wise, flexible, introspective"
+  "Qualities": "Intelligent, adaptable, sociable, ambitious",
+  "Weaknesses": "Impulsive, stubborn, opportunistic",
+  "Most Compatible": "Ox, Dragon, Monkey",
+  "Least Compatible": "Horse, Rabbit, Rooster"
  },
  {
-  "Year": 1973,
-  "Zodiac": "Ox",
-  "Element": "Water",
-  "Personality Traits": "Reliable, strong, patient; Wise, flexible, introspective"
- },
- {
-  "Year": 1974,
-  "Zodiac": "Tiger",
-  "Element": "Wood",
-  "Personality Traits": "Brave, confident, competitive; Kind, idealistic, cooperative"
- },
- {
-  "Year": 1975,
-  "Zodiac": "Rabbit",
-  "Element": "Wood",
-  "Personality Traits": "Gentle, kind, alert; Kind, idealistic, cooperative"
- },
- {
-  "Year": 1976,
-  "Zodiac": "Dragon",
-  "Element": "Fire",
-  "Personality Traits": "Ambitious, charismatic, energetic; Passionate, dynamic, temperamental"
- },
- {
-  "Year": 1977,
-  "Zodiac": "Snake",
-  "Element": "Fire",
-  "Personality Traits": "Wise, mysterious, graceful; Passionate, dynamic, temperamental"
- },
- {
-  "Year": 1978,
-  "Zodiac": "Horse",
-  "Element": "Earth",
-  "Personality Traits": "Energetic, free-spirited, impatient; Stable, reliable, nurturing"
- },
- {
-  "Year": 1979,
-  "Zodiac": "Goat",
-  "Element": "Earth",
-  "Personality Traits": "Creative, kind, sensitive; Stable, reliable, nurturing"
- },
- {
-  "Year": 1980,
-  "Zodiac": "Monkey",
-  "Element": "Metal",
-  "Personality Traits": "Witty, curious, playful; Determined, disciplined, strong-willed"
- },
- {
-  "Year": 1981,
-  "Zodiac": "Rooster",
-  "Element": "Metal",
-  "Personality Traits": "Honest, organized, decisive; Determined, disciplined, strong-willed"
- },
- {
-  "Year": 1982,
-  "Zodiac": "Dog",
-  "Element": "Water",
-  "Personality Traits": "Loyal, cautious, protective; Wise, flexible, introspective"
- },
- {
-  "Year": 1983,
-  "Zodiac": "Pig",
-  "Element": "Water",
-  "Personality Traits": "Generous, easy-going, honest; Wise, flexible, introspective"
- },
- {
-  "Year": 1984,
   "Zodiac": "Rat",
-  "Element": "Wood",
-  "Personality Traits": "Clever, resourceful, adaptable; Kind, idealistic, cooperative"
- },
- {
-  "Year": 1985,
-  "Zodiac": "Ox",
-  "Element": "Wood",
-  "Personality Traits": "Reliable, strong, patient; Kind, idealistic, cooperative"
- },
- {
-  "Year": 1986,
-  "Zodiac": "Tiger",
-  "Element": "Fire",
-  "Personality Traits": "Brave, confident, competitive; Passionate, dynamic, temperamental"
- },
- {
-  "Year": 1987,
-  "Zodiac": "Rabbit",
-  "Element": "Fire",
-  "Personality Traits": "Gentle, kind, alert; Passionate, dynamic, temperamental"
- },
- {
-  "Year": 1988,
-  "Zodiac": "Dragon",
-  "Element": "Earth",
-  "Personality Traits": "Ambitious, charismatic, energetic; Stable, reliable, nurturing"
- },
- {
-  "Year": 1989,
-  "Zodiac": "Snake",
-  "Element": "Earth",
-  "Personality Traits": "Wise, mysterious, graceful; Stable, reliable, nurturing"
- },
- {
-  "Year": 1990,
-  "Zodiac": "Horse",
-  "Element": "Metal",
-  "Personality Traits": "Energetic, free-spirited, impatient; Determined, disciplined, strong-willed"
- },
- {
-  "Year": 1991,
-  "Zodiac": "Goat",
-  "Element": "Metal",
-  "Personality Traits": "Creative, kind, sensitive; Determined, disciplined, strong-willed"
- },
- {
-  "Year": 1992,
-  "Zodiac": "Monkey",
+  "Start Date": "1948-02-10",
+  "End Date": "1949-01-28",
+  "Years": "1936, 1948, 1960, 1972, 1984, 1996, 2008, 2020",
   "Element": "Water",
-  "Personality Traits": "Witty, curious, playful; Wise, flexible, introspective"
+  "Qualities": "Intelligent, adaptable, sociable, ambitious",
+  "Weaknesses": "Impulsive, stubborn, opportunistic",
+  "Most Compatible": "Ox, Dragon, Monkey",
+  "Least Compatible": "Horse, Rabbit, Rooster"
  },
  {
-  "Year": 1993,
-  "Zodiac": "Rooster",
-  "Element": "Water",
-  "Personality Traits": "Honest, organized, decisive; Wise, flexible, introspective"
- },
- {
-  "Year": 1994,
-  "Zodiac": "Dog",
-  "Element": "Wood",
-  "Personality Traits": "Loyal, cautious, protective; Kind, idealistic, cooperative"
- },
- {
-  "Year": 1995,
-  "Zodiac": "Pig",
-  "Element": "Wood",
-  "Personality Traits": "Generous, easy-going, honest; Kind, idealistic, cooperative"
- },
- {
-  "Year": 1996,
   "Zodiac": "Rat",
-  "Element": "Fire",
-  "Personality Traits": "Clever, resourceful, adaptable; Passionate, dynamic, temperamental"
- },
- {
-  "Year": 1997,
-  "Zodiac": "Ox",
-  "Element": "Fire",
-  "Personality Traits": "Reliable, strong, patient; Passionate, dynamic, temperamental"
- },
- {
-  "Year": 1998,
-  "Zodiac": "Tiger",
-  "Element": "Earth",
-  "Personality Traits": "Brave, confident, competitive; Stable, reliable, nurturing"
- },
- {
-  "Year": 1999,
-  "Zodiac": "Rabbit",
-  "Element": "Earth",
-  "Personality Traits": "Gentle, kind, alert; Stable, reliable, nurturing"
- },
- {
-  "Year": 2000,
-  "Zodiac": "Dragon",
-  "Element": "Metal",
-  "Personality Traits": "Ambitious, charismatic, energetic; Determined, disciplined, strong-willed"
- },
- {
-  "Year": 2001,
-  "Zodiac": "Snake",
-  "Element": "Metal",
-  "Personality Traits": "Wise, mysterious, graceful; Determined, disciplined, strong-willed"
- },
- {
-  "Year": 2002,
-  "Zodiac": "Horse",
+  "Start Date": "1960-01-28",
+  "End Date": "1961-02-14",
+  "Years": "1936, 1948, 1960, 1972, 1984, 1996, 2008, 2020",
   "Element": "Water",
-  "Personality Traits": "Energetic, free-spirited, impatient; Wise, flexible, introspective"
+  "Qualities": "Intelligent, adaptable, sociable, ambitious",
+  "Weaknesses": "Impulsive, stubborn, opportunistic",
+  "Most Compatible": "Ox, Dragon, Monkey",
+  "Least Compatible": "Horse, Rabbit, Rooster"
  },
  {
-  "Year": 2003,
-  "Zodiac": "Goat",
-  "Element": "Water",
-  "Personality Traits": "Creative, kind, sensitive; Wise, flexible, introspective"
- },
- {
-  "Year": 2004,
-  "Zodiac": "Monkey",
-  "Element": "Wood",
-  "Personality Traits": "Witty, curious, playful; Kind, idealistic, cooperative"
- },
- {
-  "Year": 2005,
-  "Zodiac": "Rooster",
-  "Element": "Wood",
-  "Personality Traits": "Honest, organized, decisive; Kind, idealistic, cooperative"
- },
- {
-  "Year": 2006,
-  "Zodiac": "Dog",
-  "Element": "Fire",
-  "Personality Traits": "Loyal, cautious, protective; Passionate, dynamic, temperamental"
- },
- {
-  "Year": 2007,
-  "Zodiac": "Pig",
-  "Element": "Fire",
-  "Personality Traits": "Generous, easy-going, honest; Passionate, dynamic, temperamental"
- },
- {
-  "Year": 2008,
   "Zodiac": "Rat",
-  "Element": "Earth",
-  "Personality Traits": "Clever, resourceful, adaptable; Stable, reliable, nurturing"
- },
- {
-  "Year": 2009,
-  "Zodiac": "Ox",
-  "Element": "Earth",
-  "Personality Traits": "Reliable, strong, patient; Stable, reliable, nurturing"
- },
- {
-  "Year": 2010,
-  "Zodiac": "Tiger",
-  "Element": "Metal",
-  "Personality Traits": "Brave, confident, competitive; Determined, disciplined, strong-willed"
- },
- {
-  "Year": 2011,
-  "Zodiac": "Rabbit",
-  "Element": "Metal",
-  "Personality Traits": "Gentle, kind, alert; Determined, disciplined, strong-willed"
- },
- {
-  "Year": 2012,
-  "Zodiac": "Dragon",
+  "Start Date": "1972-02-15",
+  "End Date": "1973-02-02",
+  "Years": "1936, 1948, 1960, 1972, 1984, 1996, 2008, 2020",
   "Element": "Water",
-  "Personality Traits": "Ambitious, charismatic, energetic; Wise, flexible, introspective"
+  "Qualities": "Intelligent, adaptable, sociable, ambitious",
+  "Weaknesses": "Impulsive, stubborn, opportunistic",
+  "Most Compatible": "Ox, Dragon, Monkey",
+  "Least Compatible": "Horse, Rabbit, Rooster"
  },
  {
-  "Year": 2013,
-  "Zodiac": "Snake",
-  "Element": "Water",
-  "Personality Traits": "Wise, mysterious, graceful; Wise, flexible, introspective"
- },
- {
-  "Year": 2014,
-  "Zodiac": "Horse",
-  "Element": "Wood",
-  "Personality Traits": "Energetic, free-spirited, impatient; Kind, idealistic, cooperative"
- },
- {
-  "Year": 2015,
-  "Zodiac": "Goat",
-  "Element": "Wood",
-  "Personality Traits": "Creative, kind, sensitive; Kind, idealistic, cooperative"
- },
- {
-  "Year": 2016,
-  "Zodiac": "Monkey",
-  "Element": "Fire",
-  "Personality Traits": "Witty, curious, playful; Passionate, dynamic, temperamental"
- },
- {
-  "Year": 2017,
-  "Zodiac": "Rooster",
-  "Element": "Fire",
-  "Personality Traits": "Honest, organized, decisive; Passionate, dynamic, temperamental"
- },
- {
-  "Year": 2018,
-  "Zodiac": "Dog",
-  "Element": "Earth",
-  "Personality Traits": "Loyal, cautious, protective; Stable, reliable, nurturing"
- },
- {
-  "Year": 2019,
-  "Zodiac": "Pig",
-  "Element": "Earth",
-  "Personality Traits": "Generous, easy-going, honest; Stable, reliable, nurturing"
- },
- {
-  "Year": 2020,
   "Zodiac": "Rat",
-  "Element": "Metal",
-  "Personality Traits": "Clever, resourceful, adaptable; Determined, disciplined, strong-willed"
+  "Start Date": "1984-02-02",
+  "End Date": "1985-02-19",
+  "Years": "1936, 1948, 1960, 1972, 1984, 1996, 2008, 2020",
+  "Element": "Water",
+  "Qualities": "Intelligent, adaptable, sociable, ambitious",
+  "Weaknesses": "Impulsive, stubborn, opportunistic",
+  "Most Compatible": "Ox, Dragon, Monkey",
+  "Least Compatible": "Horse, Rabbit, Rooster"
  },
  {
-  "Year": 2021,
+  "Zodiac": "Rat",
+  "Start Date": "1996-02-19",
+  "End Date": "1997-02-06",
+  "Years": "1936, 1948, 1960, 1972, 1984, 1996, 2008, 2020",
+  "Element": "Water",
+  "Qualities": "Intelligent, adaptable, sociable, ambitious",
+  "Weaknesses": "Impulsive, stubborn, opportunistic",
+  "Most Compatible": "Ox, Dragon, Monkey",
+  "Least Compatible": "Horse, Rabbit, Rooster"
+ },
+ {
+  "Zodiac": "Rat",
+  "Start Date": "2008-02-07",
+  "End Date": "2009-01-25",
+  "Years": "1936, 1948, 1960, 1972, 1984, 1996, 2008, 2020",
+  "Element": "Water",
+  "Qualities": "Intelligent, adaptable, sociable, ambitious",
+  "Weaknesses": "Impulsive, stubborn, opportunistic",
+  "Most Compatible": "Ox, Dragon, Monkey",
+  "Least Compatible": "Horse, Rabbit, Rooster"
+ },
+ {
+  "Zodiac": "Rat",
+  "Start Date": "2020-01-25",
+  "End Date": "2021-02-11",
+  "Years": "1936, 1948, 1960, 1972, 1984, 1996, 2008, 2020",
+  "Element": "Water",
+  "Qualities": "Intelligent, adaptable, sociable, ambitious",
+  "Weaknesses": "Impulsive, stubborn, opportunistic",
+  "Most Compatible": "Ox, Dragon, Monkey",
+  "Least Compatible": "Horse, Rabbit, Rooster"
+ },
+ {
   "Zodiac": "Ox",
-  "Element": "Metal",
-  "Personality Traits": "Reliable, strong, patient; Determined, disciplined, strong-willed"
+  "Start Date": "1925-01-25",
+  "End Date": "1926-02-12",
+  "Years": "1937, 1949, 1961, 1973, 1985, 1997, 2009, 2021",
+  "Element": "Earth",
+  "Qualities": "Diligent, reliable, patient, methodical",
+  "Weaknesses": "Stubborn, inflexible, reserved",
+  "Most Compatible": "Rat, Snake, Rooster",
+  "Least Compatible": "Goat, Horse, Tiger"
  },
  {
-  "Year": 2022,
+  "Zodiac": "Ox",
+  "Start Date": "1937-02-11",
+  "End Date": "1938-01-30",
+  "Years": "1937, 1949, 1961, 1973, 1985, 1997, 2009, 2021",
+  "Element": "Earth",
+  "Qualities": "Diligent, reliable, patient, methodical",
+  "Weaknesses": "Stubborn, inflexible, reserved",
+  "Most Compatible": "Rat, Snake, Rooster",
+  "Least Compatible": "Goat, Horse, Tiger"
+ },
+ {
+  "Zodiac": "Ox",
+  "Start Date": "1949-01-29",
+  "End Date": "1950-02-16",
+  "Years": "1937, 1949, 1961, 1973, 1985, 1997, 2009, 2021",
+  "Element": "Earth",
+  "Qualities": "Diligent, reliable, patient, methodical",
+  "Weaknesses": "Stubborn, inflexible, reserved",
+  "Most Compatible": "Rat, Snake, Rooster",
+  "Least Compatible": "Goat, Horse, Tiger"
+ },
+ {
+  "Zodiac": "Ox",
+  "Start Date": "1961-02-15",
+  "End Date": "1962-02-04",
+  "Years": "1937, 1949, 1961, 1973, 1985, 1997, 2009, 2021",
+  "Element": "Earth",
+  "Qualities": "Diligent, reliable, patient, methodical",
+  "Weaknesses": "Stubborn, inflexible, reserved",
+  "Most Compatible": "Rat, Snake, Rooster",
+  "Least Compatible": "Goat, Horse, Tiger"
+ },
+ {
+  "Zodiac": "Ox",
+  "Start Date": "1973-02-03",
+  "End Date": "1974-01-22",
+  "Years": "1937, 1949, 1961, 1973, 1985, 1997, 2009, 2021",
+  "Element": "Earth",
+  "Qualities": "Diligent, reliable, patient, methodical",
+  "Weaknesses": "Stubborn, inflexible, reserved",
+  "Most Compatible": "Rat, Snake, Rooster",
+  "Least Compatible": "Goat, Horse, Tiger"
+ },
+ {
+  "Zodiac": "Ox",
+  "Start Date": "1985-02-20",
+  "End Date": "1986-02-08",
+  "Years": "1937, 1949, 1961, 1973, 1985, 1997, 2009, 2021",
+  "Element": "Earth",
+  "Qualities": "Diligent, reliable, patient, methodical",
+  "Weaknesses": "Stubborn, inflexible, reserved",
+  "Most Compatible": "Rat, Snake, Rooster",
+  "Least Compatible": "Goat, Horse, Tiger"
+ },
+ {
+  "Zodiac": "Ox",
+  "Start Date": "1997-02-07",
+  "End Date": "1998-01-27",
+  "Years": "1937, 1949, 1961, 1973, 1985, 1997, 2009, 2021",
+  "Element": "Earth",
+  "Qualities": "Diligent, reliable, patient, methodical",
+  "Weaknesses": "Stubborn, inflexible, reserved",
+  "Most Compatible": "Rat, Snake, Rooster",
+  "Least Compatible": "Goat, Horse, Tiger"
+ },
+ {
+  "Zodiac": "Ox",
+  "Start Date": "2009-01-26",
+  "End Date": "2010-02-13",
+  "Years": "1937, 1949, 1961, 1973, 1985, 1997, 2009, 2021",
+  "Element": "Earth",
+  "Qualities": "Diligent, reliable, patient, methodical",
+  "Weaknesses": "Stubborn, inflexible, reserved",
+  "Most Compatible": "Rat, Snake, Rooster",
+  "Least Compatible": "Goat, Horse, Tiger"
+ },
+ {
+  "Zodiac": "Ox",
+  "Start Date": "2021-02-12",
+  "End Date": "2022-01-31",
+  "Years": "1937, 1949, 1961, 1973, 1985, 1997, 2009, 2021",
+  "Element": "Earth",
+  "Qualities": "Diligent, reliable, patient, methodical",
+  "Weaknesses": "Stubborn, inflexible, reserved",
+  "Most Compatible": "Rat, Snake, Rooster",
+  "Least Compatible": "Goat, Horse, Tiger"
+ },
+ {
   "Zodiac": "Tiger",
-  "Element": "Water",
-  "Personality Traits": "Brave, confident, competitive; Wise, flexible, introspective"
+  "Start Date": "1926-02-13",
+  "End Date": "1927-02-01",
+  "Years": "1938, 1950, 1962, 1974, 1986, 1998, 2010, 2022",
+  "Element": "Wood",
+  "Qualities": "Brave, confident, competitive, charismatic",
+  "Weaknesses": "Impulsive, impatient, arrogant",
+  "Most Compatible": "Horse, Dog, Pig",
+  "Least Compatible": "Monkey, Ox, Snake"
  },
  {
-  "Year": 2023,
+  "Zodiac": "Tiger",
+  "Start Date": "1938-01-31",
+  "End Date": "1939-02-18",
+  "Years": "1938, 1950, 1962, 1974, 1986, 1998, 2010, 2022",
+  "Element": "Wood",
+  "Qualities": "Brave, confident, competitive, charismatic",
+  "Weaknesses": "Impulsive, impatient, arrogant",
+  "Most Compatible": "Horse, Dog, Pig",
+  "Least Compatible": "Monkey, Ox, Snake"
+ },
+ {
+  "Zodiac": "Tiger",
+  "Start Date": "1950-02-17",
+  "End Date": "1951-02-05",
+  "Years": "1938, 1950, 1962, 1974, 1986, 1998, 2010, 2022",
+  "Element": "Wood",
+  "Qualities": "Brave, confident, competitive, charismatic",
+  "Weaknesses": "Impulsive, impatient, arrogant",
+  "Most Compatible": "Horse, Dog, Pig",
+  "Least Compatible": "Monkey, Ox, Snake"
+ },
+ {
+  "Zodiac": "Tiger",
+  "Start Date": "1962-02-05",
+  "End Date": "1963-01-24",
+  "Years": "1938, 1950, 1962, 1974, 1986, 1998, 2010, 2022",
+  "Element": "Wood",
+  "Qualities": "Brave, confident, competitive, charismatic",
+  "Weaknesses": "Impulsive, impatient, arrogant",
+  "Most Compatible": "Horse, Dog, Pig",
+  "Least Compatible": "Monkey, Ox, Snake"
+ },
+ {
+  "Zodiac": "Tiger",
+  "Start Date": "1974-01-23",
+  "End Date": "1975-02-10",
+  "Years": "1938, 1950, 1962, 1974, 1986, 1998, 2010, 2022",
+  "Element": "Wood",
+  "Qualities": "Brave, confident, competitive, charismatic",
+  "Weaknesses": "Impulsive, impatient, arrogant",
+  "Most Compatible": "Horse, Dog, Pig",
+  "Least Compatible": "Monkey, Ox, Snake"
+ },
+ {
+  "Zodiac": "Tiger",
+  "Start Date": "1986-02-09",
+  "End Date": "1987-01-28",
+  "Years": "1938, 1950, 1962, 1974, 1986, 1998, 2010, 2022",
+  "Element": "Wood",
+  "Qualities": "Brave, confident, competitive, charismatic",
+  "Weaknesses": "Impulsive, impatient, arrogant",
+  "Most Compatible": "Horse, Dog, Pig",
+  "Least Compatible": "Monkey, Ox, Snake"
+ },
+ {
+  "Zodiac": "Tiger",
+  "Start Date": "1998-01-28",
+  "End Date": "1999-02-15",
+  "Years": "1938, 1950, 1962, 1974, 1986, 1998, 2010, 2022",
+  "Element": "Wood",
+  "Qualities": "Brave, confident, competitive, charismatic",
+  "Weaknesses": "Impulsive, impatient, arrogant",
+  "Most Compatible": "Horse, Dog, Pig",
+  "Least Compatible": "Monkey, Ox, Snake"
+ },
+ {
+  "Zodiac": "Tiger",
+  "Start Date": "2010-02-14",
+  "End Date": "2011-02-02",
+  "Years": "1938, 1950, 1962, 1974, 1986, 1998, 2010, 2022",
+  "Element": "Wood",
+  "Qualities": "Brave, confident, competitive, charismatic",
+  "Weaknesses": "Impulsive, impatient, arrogant",
+  "Most Compatible": "Horse, Dog, Pig",
+  "Least Compatible": "Monkey, Ox, Snake"
+ },
+ {
+  "Zodiac": "Tiger",
+  "Start Date": "2022-02-01",
+  "End Date": "2023-01-21",
+  "Years": "1938, 1950, 1962, 1974, 1986, 1998, 2010, 2022",
+  "Element": "Wood",
+  "Qualities": "Brave, confident, competitive, charismatic",
+  "Weaknesses": "Impulsive, impatient, arrogant",
+  "Most Compatible": "Horse, Dog, Pig",
+  "Least Compatible": "Monkey, Ox, Snake"
+ },
+ {
   "Zodiac": "Rabbit",
-  "Element": "Water",
-  "Personality Traits": "Gentle, kind, alert; Wise, flexible, introspective"
+  "Start Date": "1927-02-02",
+  "End Date": "1928-01-22",
+  "Years": "1939, 1951, 1963, 1975, 1987, 1999, 2011, 2023",
+  "Element": "Wood",
+  "Qualities": "Gentle, compassionate, sensitive, intuitive",
+  "Weaknesses": "Evasive, insecure, overly cautious",
+  "Most Compatible": "Goat, Pig, Dog",
+  "Least Compatible": "Rooster, Rat, Dragon"
  },
  {
-  "Year": 2024,
+  "Zodiac": "Rabbit",
+  "Start Date": "1939-02-19",
+  "End Date": "1940-02-07",
+  "Years": "1939, 1951, 1963, 1975, 1987, 1999, 2011, 2023",
+  "Element": "Wood",
+  "Qualities": "Gentle, compassionate, sensitive, intuitive",
+  "Weaknesses": "Evasive, insecure, overly cautious",
+  "Most Compatible": "Goat, Pig, Dog",
+  "Least Compatible": "Rooster, Rat, Dragon"
+ },
+ {
+  "Zodiac": "Rabbit",
+  "Start Date": "1951-02-06",
+  "End Date": "1952-01-26",
+  "Years": "1939, 1951, 1963, 1975, 1987, 1999, 2011, 2023",
+  "Element": "Wood",
+  "Qualities": "Gentle, compassionate, sensitive, intuitive",
+  "Weaknesses": "Evasive, insecure, overly cautious",
+  "Most Compatible": "Goat, Pig, Dog",
+  "Least Compatible": "Rooster, Rat, Dragon"
+ },
+ {
+  "Zodiac": "Rabbit",
+  "Start Date": "1963-01-25",
+  "End Date": "1964-02-12",
+  "Years": "1939, 1951, 1963, 1975, 1987, 1999, 2011, 2023",
+  "Element": "Wood",
+  "Qualities": "Gentle, compassionate, sensitive, intuitive",
+  "Weaknesses": "Evasive, insecure, overly cautious",
+  "Most Compatible": "Goat, Pig, Dog",
+  "Least Compatible": "Rooster, Rat, Dragon"
+ },
+ {
+  "Zodiac": "Rabbit",
+  "Start Date": "1975-02-11",
+  "End Date": "1976-01-30",
+  "Years": "1939, 1951, 1963, 1975, 1987, 1999, 2011, 2023",
+  "Element": "Wood",
+  "Qualities": "Gentle, compassionate, sensitive, intuitive",
+  "Weaknesses": "Evasive, insecure, overly cautious",
+  "Most Compatible": "Goat, Pig, Dog",
+  "Least Compatible": "Rooster, Rat, Dragon"
+ },
+ {
+  "Zodiac": "Rabbit",
+  "Start Date": "1987-01-29",
+  "End Date": "1988-02-16",
+  "Years": "1939, 1951, 1963, 1975, 1987, 1999, 2011, 2023",
+  "Element": "Wood",
+  "Qualities": "Gentle, compassionate, sensitive, intuitive",
+  "Weaknesses": "Evasive, insecure, overly cautious",
+  "Most Compatible": "Goat, Pig, Dog",
+  "Least Compatible": "Rooster, Rat, Dragon"
+ },
+ {
+  "Zodiac": "Rabbit",
+  "Start Date": "1999-02-16",
+  "End Date": "2000-02-04",
+  "Years": "1939, 1951, 1963, 1975, 1987, 1999, 2011, 2023",
+  "Element": "Wood",
+  "Qualities": "Gentle, compassionate, sensitive, intuitive",
+  "Weaknesses": "Evasive, insecure, overly cautious",
+  "Most Compatible": "Goat, Pig, Dog",
+  "Least Compatible": "Rooster, Rat, Dragon"
+ },
+ {
+  "Zodiac": "Rabbit",
+  "Start Date": "2011-02-03",
+  "End Date": "2012-01-22",
+  "Years": "1939, 1951, 1963, 1975, 1987, 1999, 2011, 2023",
+  "Element": "Wood",
+  "Qualities": "Gentle, compassionate, sensitive, intuitive",
+  "Weaknesses": "Evasive, insecure, overly cautious",
+  "Most Compatible": "Goat, Pig, Dog",
+  "Least Compatible": "Rooster, Rat, Dragon"
+ },
+ {
+  "Zodiac": "Rabbit",
+  "Start Date": "2023-01-22",
+  "End Date": "2024-02-09",
+  "Years": "1939, 1951, 1963, 1975, 1987, 1999, 2011, 2023",
+  "Element": "Wood",
+  "Qualities": "Gentle, compassionate, sensitive, intuitive",
+  "Weaknesses": "Evasive, insecure, overly cautious",
+  "Most Compatible": "Goat, Pig, Dog",
+  "Least Compatible": "Rooster, Rat, Dragon"
+ },
+ {
   "Zodiac": "Dragon",
-  "Element": "Wood",
-  "Personality Traits": "Ambitious, charismatic, energetic; Kind, idealistic, cooperative"
+  "Start Date": "1928-01-23",
+  "End Date": "1929-02-09",
+  "Years": "1940, 1952, 1964, 1976, 1988, 2000, 2012, 2024",
+  "Element": "Earth",
+  "Qualities": "Charismatic, energetic, ambitious, confident",
+  "Weaknesses": "Arrogant, impatient, stubborn",
+  "Most Compatible": "Rat, Monkey, Rooster",
+  "Least Compatible": "Dog, Rabbit, Ox"
  },
  {
-  "Year": 2025,
+  "Zodiac": "Dragon",
+  "Start Date": "1940-02-08",
+  "End Date": "1941-01-26",
+  "Years": "1940, 1952, 1964, 1976, 1988, 2000, 2012, 2024",
+  "Element": "Earth",
+  "Qualities": "Charismatic, energetic, ambitious, confident",
+  "Weaknesses": "Arrogant, impatient, stubborn",
+  "Most Compatible": "Rat, Monkey, Rooster",
+  "Least Compatible": "Dog, Rabbit, Ox"
+ },
+ {
+  "Zodiac": "Dragon",
+  "Start Date": "1952-01-27",
+  "End Date": "1953-02-13",
+  "Years": "1940, 1952, 1964, 1976, 1988, 2000, 2012, 2024",
+  "Element": "Earth",
+  "Qualities": "Charismatic, energetic, ambitious, confident",
+  "Weaknesses": "Arrogant, impatient, stubborn",
+  "Most Compatible": "Rat, Monkey, Rooster",
+  "Least Compatible": "Dog, Rabbit, Ox"
+ },
+ {
+  "Zodiac": "Dragon",
+  "Start Date": "1964-02-13",
+  "End Date": "1965-02-01",
+  "Years": "1940, 1952, 1964, 1976, 1988, 2000, 2012, 2024",
+  "Element": "Earth",
+  "Qualities": "Charismatic, energetic, ambitious, confident",
+  "Weaknesses": "Arrogant, impatient, stubborn",
+  "Most Compatible": "Rat, Monkey, Rooster",
+  "Least Compatible": "Dog, Rabbit, Ox"
+ },
+ {
+  "Zodiac": "Dragon",
+  "Start Date": "1976-01-31",
+  "End Date": "1977-02-17",
+  "Years": "1940, 1952, 1964, 1976, 1988, 2000, 2012, 2024",
+  "Element": "Earth",
+  "Qualities": "Charismatic, energetic, ambitious, confident",
+  "Weaknesses": "Arrogant, impatient, stubborn",
+  "Most Compatible": "Rat, Monkey, Rooster",
+  "Least Compatible": "Dog, Rabbit, Ox"
+ },
+ {
+  "Zodiac": "Dragon",
+  "Start Date": "1988-02-17",
+  "End Date": "1989-02-05",
+  "Years": "1940, 1952, 1964, 1976, 1988, 2000, 2012, 2024",
+  "Element": "Earth",
+  "Qualities": "Charismatic, energetic, ambitious, confident",
+  "Weaknesses": "Arrogant, impatient, stubborn",
+  "Most Compatible": "Rat, Monkey, Rooster",
+  "Least Compatible": "Dog, Rabbit, Ox"
+ },
+ {
+  "Zodiac": "Dragon",
+  "Start Date": "2000-02-05",
+  "End Date": "2001-01-23",
+  "Years": "1940, 1952, 1964, 1976, 1988, 2000, 2012, 2024",
+  "Element": "Earth",
+  "Qualities": "Charismatic, energetic, ambitious, confident",
+  "Weaknesses": "Arrogant, impatient, stubborn",
+  "Most Compatible": "Rat, Monkey, Rooster",
+  "Least Compatible": "Dog, Rabbit, Ox"
+ },
+ {
+  "Zodiac": "Dragon",
+  "Start Date": "2012-01-23",
+  "End Date": "2013-02-09",
+  "Years": "1940, 1952, 1964, 1976, 1988, 2000, 2012, 2024",
+  "Element": "Earth",
+  "Qualities": "Charismatic, energetic, ambitious, confident",
+  "Weaknesses": "Arrogant, impatient, stubborn",
+  "Most Compatible": "Rat, Monkey, Rooster",
+  "Least Compatible": "Dog, Rabbit, Ox"
+ },
+ {
+  "Zodiac": "Dragon",
+  "Start Date": "2024-02-10",
+  "End Date": "2025-01-28",
+  "Years": "1940, 1952, 1964, 1976, 1988, 2000, 2012, 2024",
+  "Element": "Earth",
+  "Qualities": "Charismatic, energetic, ambitious, confident",
+  "Weaknesses": "Arrogant, impatient, stubborn",
+  "Most Compatible": "Rat, Monkey, Rooster",
+  "Least Compatible": "Dog, Rabbit, Ox"
+ },
+ {
   "Zodiac": "Snake",
-  "Element": "Wood",
-  "Personality Traits": "Wise, mysterious, graceful; Kind, idealistic, cooperative"
+  "Start Date": "1929-02-10",
+  "End Date": "1930-01-29",
+  "Years": "1941, 1953, 1965, 1977, 1989, 2001, 2013, 2025",
+  "Element": "Fire",
+  "Qualities": "Wise, intuitive, mysterious, determined",
+  "Weaknesses": "Jealous, possessive, reserved",
+  "Most Compatible": "Ox, Rooster, Monkey",
+  "Least Compatible": "Tiger, Pig, Rabbit"
+ },
+ {
+  "Zodiac": "Snake",
+  "Start Date": "1941-01-27",
+  "End Date": "1942-02-14",
+  "Years": "1941, 1953, 1965, 1977, 1989, 2001, 2013, 2025",
+  "Element": "Fire",
+  "Qualities": "Wise, intuitive, mysterious, determined",
+  "Weaknesses": "Jealous, possessive, reserved",
+  "Most Compatible": "Ox, Rooster, Monkey",
+  "Least Compatible": "Tiger, Pig, Rabbit"
+ },
+ {
+  "Zodiac": "Snake",
+  "Start Date": "1953-02-14",
+  "End Date": "1954-02-02",
+  "Years": "1941, 1953, 1965, 1977, 1989, 2001, 2013, 2025",
+  "Element": "Fire",
+  "Qualities": "Wise, intuitive, mysterious, determined",
+  "Weaknesses": "Jealous, possessive, reserved",
+  "Most Compatible": "Ox, Rooster, Monkey",
+  "Least Compatible": "Tiger, Pig, Rabbit"
+ },
+ {
+  "Zodiac": "Snake",
+  "Start Date": "1965-02-02",
+  "End Date": "1966-01-20",
+  "Years": "1941, 1953, 1965, 1977, 1989, 2001, 2013, 2025",
+  "Element": "Fire",
+  "Qualities": "Wise, intuitive, mysterious, determined",
+  "Weaknesses": "Jealous, possessive, reserved",
+  "Most Compatible": "Ox, Rooster, Monkey",
+  "Least Compatible": "Tiger, Pig, Rabbit"
+ },
+ {
+  "Zodiac": "Snake",
+  "Start Date": "1977-02-18",
+  "End Date": "1978-02-06",
+  "Years": "1941, 1953, 1965, 1977, 1989, 2001, 2013, 2025",
+  "Element": "Fire",
+  "Qualities": "Wise, intuitive, mysterious, determined",
+  "Weaknesses": "Jealous, possessive, reserved",
+  "Most Compatible": "Ox, Rooster, Monkey",
+  "Least Compatible": "Tiger, Pig, Rabbit"
+ },
+ {
+  "Zodiac": "Snake",
+  "Start Date": "1989-02-06",
+  "End Date": "1990-01-26",
+  "Years": "1941, 1953, 1965, 1977, 1989, 2001, 2013, 2025",
+  "Element": "Fire",
+  "Qualities": "Wise, intuitive, mysterious, determined",
+  "Weaknesses": "Jealous, possessive, reserved",
+  "Most Compatible": "Ox, Rooster, Monkey",
+  "Least Compatible": "Tiger, Pig, Rabbit"
+ },
+ {
+  "Zodiac": "Snake",
+  "Start Date": "2001-01-24",
+  "End Date": "2002-02-11",
+  "Years": "1941, 1953, 1965, 1977, 1989, 2001, 2013, 2025",
+  "Element": "Fire",
+  "Qualities": "Wise, intuitive, mysterious, determined",
+  "Weaknesses": "Jealous, possessive, reserved",
+  "Most Compatible": "Ox, Rooster, Monkey",
+  "Least Compatible": "Tiger, Pig, Rabbit"
+ },
+ {
+  "Zodiac": "Snake",
+  "Start Date": "2013-02-10",
+  "End Date": "2014-01-30",
+  "Years": "1941, 1953, 1965, 1977, 1989, 2001, 2013, 2025",
+  "Element": "Fire",
+  "Qualities": "Wise, intuitive, mysterious, determined",
+  "Weaknesses": "Jealous, possessive, reserved",
+  "Most Compatible": "Ox, Rooster, Monkey",
+  "Least Compatible": "Tiger, Pig, Rabbit"
+ },
+ {
+  "Zodiac": "Snake",
+  "Start Date": "2025-01-29",
+  "End Date": "2026-02-16",
+  "Years": "1941, 1953, 1965, 1977, 1989, 2001, 2013, 2025",
+  "Element": "Fire",
+  "Qualities": "Wise, intuitive, mysterious, determined",
+  "Weaknesses": "Jealous, possessive, reserved",
+  "Most Compatible": "Ox, Rooster, Monkey",
+  "Least Compatible": "Tiger, Pig, Rabbit"
+ },
+ {
+  "Zodiac": "Horse",
+  "Start Date": "1930-01-30",
+  "End Date": "1931-02-16",
+  "Years": "1942, 1954, 1966, 1978, 1990, 2002, 2014, 2026",
+  "Element": "Fire",
+  "Qualities": "Energetic, charismatic, independent, hard-working",
+  "Weaknesses": "Impatient, impulsive, stubborn",
+  "Most Compatible": "Tiger, Dog, Goat",
+  "Least Compatible": "Rat, Ox, Rabbit"
+ },
+ {
+  "Zodiac": "Horse",
+  "Start Date": "1942-02-15",
+  "End Date": "1943-02-04",
+  "Years": "1942, 1954, 1966, 1978, 1990, 2002, 2014, 2026",
+  "Element": "Fire",
+  "Qualities": "Energetic, charismatic, independent, hard-working",
+  "Weaknesses": "Impatient, impulsive, stubborn",
+  "Most Compatible": "Tiger, Dog, Goat",
+  "Least Compatible": "Rat, Ox, Rabbit"
+ },
+ {
+  "Zodiac": "Horse",
+  "Start Date": "1954-02-03",
+  "End Date": "1955-01-23",
+  "Years": "1942, 1954, 1966, 1978, 1990, 2002, 2014, 2026",
+  "Element": "Fire",
+  "Qualities": "Energetic, charismatic, independent, hard-working",
+  "Weaknesses": "Impatient, impulsive, stubborn",
+  "Most Compatible": "Tiger, Dog, Goat",
+  "Least Compatible": "Rat, Ox, Rabbit"
+ },
+ {
+  "Zodiac": "Horse",
+  "Start Date": "1966-01-21",
+  "End Date": "1967-02-08",
+  "Years": "1942, 1954, 1966, 1978, 1990, 2002, 2014, 2026",
+  "Element": "Fire",
+  "Qualities": "Energetic, charismatic, independent, hard-working",
+  "Weaknesses": "Impatient, impulsive, stubborn",
+  "Most Compatible": "Tiger, Dog, Goat",
+  "Least Compatible": "Rat, Ox, Rabbit"
+ },
+ {
+  "Zodiac": "Horse",
+  "Start Date": "1978-02-07",
+  "End Date": "1979-01-27",
+  "Years": "1942, 1954, 1966, 1978, 1990, 2002, 2014, 2026",
+  "Element": "Fire",
+  "Qualities": "Energetic, charismatic, independent, hard-working",
+  "Weaknesses": "Impatient, impulsive, stubborn",
+  "Most Compatible": "Tiger, Dog, Goat",
+  "Least Compatible": "Rat, Ox, Rabbit"
+ },
+ {
+  "Zodiac": "Horse",
+  "Start Date": "1990-01-27",
+  "End Date": "1991-02-14",
+  "Years": "1942, 1954, 1966, 1978, 1990, 2002, 2014, 2026",
+  "Element": "Fire",
+  "Qualities": "Energetic, charismatic, independent, hard-working",
+  "Weaknesses": "Impatient, impulsive, stubborn",
+  "Most Compatible": "Tiger, Dog, Goat",
+  "Least Compatible": "Rat, Ox, Rabbit"
+ },
+ {
+  "Zodiac": "Horse",
+  "Start Date": "2002-02-12",
+  "End Date": "2003-01-31",
+  "Years": "1942, 1954, 1966, 1978, 1990, 2002, 2014, 2026",
+  "Element": "Fire",
+  "Qualities": "Energetic, charismatic, independent, hard-working",
+  "Weaknesses": "Impatient, impulsive, stubborn",
+  "Most Compatible": "Tiger, Dog, Goat",
+  "Least Compatible": "Rat, Ox, Rabbit"
+ },
+ {
+  "Zodiac": "Horse",
+  "Start Date": "2014-01-31",
+  "End Date": "2015-02-18",
+  "Years": "1942, 1954, 1966, 1978, 1990, 2002, 2014, 2026",
+  "Element": "Fire",
+  "Qualities": "Energetic, charismatic, independent, hard-working",
+  "Weaknesses": "Impatient, impulsive, stubborn",
+  "Most Compatible": "Tiger, Dog, Goat",
+  "Least Compatible": "Rat, Ox, Rabbit"
+ },
+ {
+  "Zodiac": "Horse",
+  "Start Date": "2026-02-17",
+  "End Date": "2027-02-05",
+  "Years": "1942, 1954, 1966, 1978, 1990, 2002, 2014, 2026",
+  "Element": "Fire",
+  "Qualities": "Energetic, charismatic, independent, hard-working",
+  "Weaknesses": "Impatient, impulsive, stubborn",
+  "Most Compatible": "Tiger, Dog, Goat",
+  "Least Compatible": "Rat, Ox, Rabbit"
+ },
+ {
+  "Zodiac": "Goat",
+  "Start Date": "1931-02-17",
+  "End Date": "1932-02-05",
+  "Years": "1943, 1955, 1967, 1979, 1991, 2003, 2015, 2027",
+  "Element": "Earth",
+  "Qualities": "Kind, compassionate, imaginative, creative",
+  "Weaknesses": "Insecure, indecisive, pessimistic",
+  "Most Compatible": "Rabbit, Pig, Horse",
+  "Least Compatible": "Ox, Rat, Dog"
+ },
+ {
+  "Zodiac": "Goat",
+  "Start Date": "1943-02-05",
+  "End Date": "1944-01-24",
+  "Years": "1943, 1955, 1967, 1979, 1991, 2003, 2015, 2027",
+  "Element": "Earth",
+  "Qualities": "Kind, compassionate, imaginative, creative",
+  "Weaknesses": "Insecure, indecisive, pessimistic",
+  "Most Compatible": "Rabbit, Pig, Horse",
+  "Least Compatible": "Ox, Rat, Dog"
+ },
+ {
+  "Zodiac": "Goat",
+  "Start Date": "1955-01-24",
+  "End Date": "1956-02-11",
+  "Years": "1943, 1955, 1967, 1979, 1991, 2003, 2015, 2027",
+  "Element": "Earth",
+  "Qualities": "Kind, compassionate, imaginative, creative",
+  "Weaknesses": "Insecure, indecisive, pessimistic",
+  "Most Compatible": "Rabbit, Pig, Horse",
+  "Least Compatible": "Ox, Rat, Dog"
+ },
+ {
+  "Zodiac": "Goat",
+  "Start Date": "1967-02-09",
+  "End Date": "1968-01-29",
+  "Years": "1943, 1955, 1967, 1979, 1991, 2003, 2015, 2027",
+  "Element": "Earth",
+  "Qualities": "Kind, compassionate, imaginative, creative",
+  "Weaknesses": "Insecure, indecisive, pessimistic",
+  "Most Compatible": "Rabbit, Pig, Horse",
+  "Least Compatible": "Ox, Rat, Dog"
+ },
+ {
+  "Zodiac": "Goat",
+  "Start Date": "1979-01-28",
+  "End Date": "1980-02-15",
+  "Years": "1943, 1955, 1967, 1979, 1991, 2003, 2015, 2027",
+  "Element": "Earth",
+  "Qualities": "Kind, compassionate, imaginative, creative",
+  "Weaknesses": "Insecure, indecisive, pessimistic",
+  "Most Compatible": "Rabbit, Pig, Horse",
+  "Least Compatible": "Ox, Rat, Dog"
+ },
+ {
+  "Zodiac": "Goat",
+  "Start Date": "1991-02-15",
+  "End Date": "1992-02-03",
+  "Years": "1943, 1955, 1967, 1979, 1991, 2003, 2015, 2027",
+  "Element": "Earth",
+  "Qualities": "Kind, compassionate, imaginative, creative",
+  "Weaknesses": "Insecure, indecisive, pessimistic",
+  "Most Compatible": "Rabbit, Pig, Horse",
+  "Least Compatible": "Ox, Rat, Dog"
+ },
+ {
+  "Zodiac": "Goat",
+  "Start Date": "2003-02-01",
+  "End Date": "2004-01-21",
+  "Years": "1943, 1955, 1967, 1979, 1991, 2003, 2015, 2027",
+  "Element": "Earth",
+  "Qualities": "Kind, compassionate, imaginative, creative",
+  "Weaknesses": "Insecure, indecisive, pessimistic",
+  "Most Compatible": "Rabbit, Pig, Horse",
+  "Least Compatible": "Ox, Rat, Dog"
+ },
+ {
+  "Zodiac": "Goat",
+  "Start Date": "2015-02-19",
+  "End Date": "2016-02-07",
+  "Years": "1943, 1955, 1967, 1979, 1991, 2003, 2015, 2027",
+  "Element": "Earth",
+  "Qualities": "Kind, compassionate, imaginative, creative",
+  "Weaknesses": "Insecure, indecisive, pessimistic",
+  "Most Compatible": "Rabbit, Pig, Horse",
+  "Least Compatible": "Ox, Rat, Dog"
+ },
+ {
+  "Zodiac": "Goat",
+  "Start Date": "2027-02-06",
+  "End Date": "2028-01-25",
+  "Years": "1943, 1955, 1967, 1979, 1991, 2003, 2015, 2027",
+  "Element": "Earth",
+  "Qualities": "Kind, compassionate, imaginative, creative",
+  "Weaknesses": "Insecure, indecisive, pessimistic",
+  "Most Compatible": "Rabbit, Pig, Horse",
+  "Least Compatible": "Ox, Rat, Dog"
+ },
+ {
+  "Zodiac": "Monkey",
+  "Start Date": "1932-02-06",
+  "End Date": "1933-01-25",
+  "Years": "1944, 1956, 1968, 1980, 1992, 2004, 2016, 2028",
+  "Element": "Metal",
+  "Qualities": "Intelligent, witty, curious, mischievous",
+  "Weaknesses": "Arrogant, opportunistic, restless",
+  "Most Compatible": "Rat, Dragon, Snake",
+  "Least Compatible": "Tiger, Pig, Rabbit"
+ },
+ {
+  "Zodiac": "Monkey",
+  "Start Date": "1944-01-25",
+  "End Date": "1945-02-12",
+  "Years": "1944, 1956, 1968, 1980, 1992, 2004, 2016, 2028",
+  "Element": "Metal",
+  "Qualities": "Intelligent, witty, curious, mischievous",
+  "Weaknesses": "Arrogant, opportunistic, restless",
+  "Most Compatible": "Rat, Dragon, Snake",
+  "Least Compatible": "Tiger, Pig, Rabbit"
+ },
+ {
+  "Zodiac": "Monkey",
+  "Start Date": "1956-02-12",
+  "End Date": "1957-01-30",
+  "Years": "1944, 1956, 1968, 1980, 1992, 2004, 2016, 2028",
+  "Element": "Metal",
+  "Qualities": "Intelligent, witty, curious, mischievous",
+  "Weaknesses": "Arrogant, opportunistic, restless",
+  "Most Compatible": "Rat, Dragon, Snake",
+  "Least Compatible": "Tiger, Pig, Rabbit"
+ },
+ {
+  "Zodiac": "Monkey",
+  "Start Date": "1968-01-30",
+  "End Date": "1969-02-16",
+  "Years": "1944, 1956, 1968, 1980, 1992, 2004, 2016, 2028",
+  "Element": "Metal",
+  "Qualities": "Intelligent, witty, curious, mischievous",
+  "Weaknesses": "Arrogant, opportunistic, restless",
+  "Most Compatible": "Rat, Dragon, Snake",
+  "Least Compatible": "Tiger, Pig, Rabbit"
+ },
+ {
+  "Zodiac": "Monkey",
+  "Start Date": "1980-02-16",
+  "End Date": "1981-02-04",
+  "Years": "1944, 1956, 1968, 1980, 1992, 2004, 2016, 2028",
+  "Element": "Metal",
+  "Qualities": "Intelligent, witty, curious, mischievous",
+  "Weaknesses": "Arrogant, opportunistic, restless",
+  "Most Compatible": "Rat, Dragon, Snake",
+  "Least Compatible": "Tiger, Pig, Rabbit"
+ },
+ {
+  "Zodiac": "Monkey",
+  "Start Date": "1992-02-04",
+  "End Date": "1993-01-22",
+  "Years": "1944, 1956, 1968, 1980, 1992, 2004, 2016, 2028",
+  "Element": "Metal",
+  "Qualities": "Intelligent, witty, curious, mischievous",
+  "Weaknesses": "Arrogant, opportunistic, restless",
+  "Most Compatible": "Rat, Dragon, Snake",
+  "Least Compatible": "Tiger, Pig, Rabbit"
+ },
+ {
+  "Zodiac": "Monkey",
+  "Start Date": "2004-01-22",
+  "End Date": "2005-02-08",
+  "Years": "1944, 1956, 1968, 1980, 1992, 2004, 2016, 2028",
+  "Element": "Metal",
+  "Qualities": "Intelligent, witty, curious, mischievous",
+  "Weaknesses": "Arrogant, opportunistic, restless",
+  "Most Compatible": "Rat, Dragon, Snake",
+  "Least Compatible": "Tiger, Pig, Rabbit"
+ },
+ {
+  "Zodiac": "Monkey",
+  "Start Date": "2016-02-08",
+  "End Date": "2017-01-27",
+  "Years": "1944, 1956, 1968, 1980, 1992, 2004, 2016, 2028",
+  "Element": "Metal",
+  "Qualities": "Intelligent, witty, curious, mischievous",
+  "Weaknesses": "Arrogant, opportunistic, restless",
+  "Most Compatible": "Rat, Dragon, Snake",
+  "Least Compatible": "Tiger, Pig, Rabbit"
+ },
+ {
+  "Zodiac": "Monkey",
+  "Start Date": "2028-01-26",
+  "End Date": "2029-02-12",
+  "Years": "1944, 1956, 1968, 1980, 1992, 2004, 2016, 2028",
+  "Element": "Metal",
+  "Qualities": "Intelligent, witty, curious, mischievous",
+  "Weaknesses": "Arrogant, opportunistic, restless",
+  "Most Compatible": "Rat, Dragon, Snake",
+  "Least Compatible": "Tiger, Pig, Rabbit"
+ },
+ {
+  "Zodiac": "Rooster",
+  "Start Date": "1933-01-26",
+  "End Date": "1934-02-13",
+  "Years": "1945, 1957, 1969, 1981, 1993, 2005, 2017, 2029",
+  "Element": "Metal",
+  "Qualities": "Honest, hardworking, confident, observant",
+  "Weaknesses": "Critical, vain, stubborn",
+  "Most Compatible": "Ox, Snake, Dragon",
+  "Least Compatible": "Rabbit, Dog, Rat"
+ },
+ {
+  "Zodiac": "Rooster",
+  "Start Date": "1945-02-13",
+  "End Date": "1946-02-01",
+  "Years": "1945, 1957, 1969, 1981, 1993, 2005, 2017, 2029",
+  "Element": "Metal",
+  "Qualities": "Honest, hardworking, confident, observant",
+  "Weaknesses": "Critical, vain, stubborn",
+  "Most Compatible": "Ox, Snake, Dragon",
+  "Least Compatible": "Rabbit, Dog, Rat"
+ },
+ {
+  "Zodiac": "Rooster",
+  "Start Date": "1957-01-31",
+  "End Date": "1958-02-17",
+  "Years": "1945, 1957, 1969, 1981, 1993, 2005, 2017, 2029",
+  "Element": "Metal",
+  "Qualities": "Honest, hardworking, confident, observant",
+  "Weaknesses": "Critical, vain, stubborn",
+  "Most Compatible": "Ox, Snake, Dragon",
+  "Least Compatible": "Rabbit, Dog, Rat"
+ },
+ {
+  "Zodiac": "Rooster",
+  "Start Date": "1969-02-17",
+  "End Date": "1970-02-05",
+  "Years": "1945, 1957, 1969, 1981, 1993, 2005, 2017, 2029",
+  "Element": "Metal",
+  "Qualities": "Honest, hardworking, confident, observant",
+  "Weaknesses": "Critical, vain, stubborn",
+  "Most Compatible": "Ox, Snake, Dragon",
+  "Least Compatible": "Rabbit, Dog, Rat"
+ },
+ {
+  "Zodiac": "Rooster",
+  "Start Date": "1981-02-05",
+  "End Date": "1982-01-24",
+  "Years": "1945, 1957, 1969, 1981, 1993, 2005, 2017, 2029",
+  "Element": "Metal",
+  "Qualities": "Honest, hardworking, confident, observant",
+  "Weaknesses": "Critical, vain, stubborn",
+  "Most Compatible": "Ox, Snake, Dragon",
+  "Least Compatible": "Rabbit, Dog, Rat"
+ },
+ {
+  "Zodiac": "Rooster",
+  "Start Date": "1993-01-23",
+  "End Date": "1994-02-09",
+  "Years": "1945, 1957, 1969, 1981, 1993, 2005, 2017, 2029",
+  "Element": "Metal",
+  "Qualities": "Honest, hardworking, confident, observant",
+  "Weaknesses": "Critical, vain, stubborn",
+  "Most Compatible": "Ox, Snake, Dragon",
+  "Least Compatible": "Rabbit, Dog, Rat"
+ },
+ {
+  "Zodiac": "Rooster",
+  "Start Date": "2005-02-09",
+  "End Date": "2006-01-28",
+  "Years": "1945, 1957, 1969, 1981, 1993, 2005, 2017, 2029",
+  "Element": "Metal",
+  "Qualities": "Honest, hardworking, confident, observant",
+  "Weaknesses": "Critical, vain, stubborn",
+  "Most Compatible": "Ox, Snake, Dragon",
+  "Least Compatible": "Rabbit, Dog, Rat"
+ },
+ {
+  "Zodiac": "Rooster",
+  "Start Date": "2017-01-28",
+  "End Date": "2018-02-15",
+  "Years": "1945, 1957, 1969, 1981, 1993, 2005, 2017, 2029",
+  "Element": "Metal",
+  "Qualities": "Honest, hardworking, confident, observant",
+  "Weaknesses": "Critical, vain, stubborn",
+  "Most Compatible": "Ox, Snake, Dragon",
+  "Least Compatible": "Rabbit, Dog, Rat"
+ },
+ {
+  "Zodiac": "Rooster",
+  "Start Date": "2029-02-13",
+  "End Date": "2030-02-02",
+  "Years": "1945, 1957, 1969, 1981, 1993, 2005, 2017, 2029",
+  "Element": "Metal",
+  "Qualities": "Honest, hardworking, confident, observant",
+  "Weaknesses": "Critical, vain, stubborn",
+  "Most Compatible": "Ox, Snake, Dragon",
+  "Least Compatible": "Rabbit, Dog, Rat"
+ },
+ {
+  "Zodiac": "Dog",
+  "Start Date": "1934-02-14",
+  "End Date": "1935-02-03",
+  "Years": "1946, 1958, 1970, 1982, 1994, 2006, 2018, 2030",
+  "Element": "Earth",
+  "Qualities": "Loyal, sincere, diligent, practical",
+  "Weaknesses": "Stubborn, reserved, pessimistic",
+  "Most Compatible": "Tiger, Horse, Rabbit",
+  "Least Compatible": "Dragon, Rooster, Goat"
+ },
+ {
+  "Zodiac": "Dog",
+  "Start Date": "1946-02-02",
+  "End Date": "1947-01-21",
+  "Years": "1946, 1958, 1970, 1982, 1994, 2006, 2018, 2030",
+  "Element": "Earth",
+  "Qualities": "Loyal, sincere, diligent, practical",
+  "Weaknesses": "Stubborn, reserved, pessimistic",
+  "Most Compatible": "Tiger, Horse, Rabbit",
+  "Least Compatible": "Dragon, Rooster, Goat"
+ },
+ {
+  "Zodiac": "Dog",
+  "Start Date": "1958-02-18",
+  "End Date": "1959-02-07",
+  "Years": "1946, 1958, 1970, 1982, 1994, 2006, 2018, 2030",
+  "Element": "Earth",
+  "Qualities": "Loyal, sincere, diligent, practical",
+  "Weaknesses": "Stubborn, reserved, pessimistic",
+  "Most Compatible": "Tiger, Horse, Rabbit",
+  "Least Compatible": "Dragon, Rooster, Goat"
+ },
+ {
+  "Zodiac": "Dog",
+  "Start Date": "1970-02-06",
+  "End Date": "1971-01-26",
+  "Years": "1946, 1958, 1970, 1982, 1994, 2006, 2018, 2030",
+  "Element": "Earth",
+  "Qualities": "Loyal, sincere, diligent, practical",
+  "Weaknesses": "Stubborn, reserved, pessimistic",
+  "Most Compatible": "Tiger, Horse, Rabbit",
+  "Least Compatible": "Dragon, Rooster, Goat"
+ },
+ {
+  "Zodiac": "Dog",
+  "Start Date": "1982-01-25",
+  "End Date": "1983-02-12",
+  "Years": "1946, 1958, 1970, 1982, 1994, 2006, 2018, 2030",
+  "Element": "Earth",
+  "Qualities": "Loyal, sincere, diligent, practical",
+  "Weaknesses": "Stubborn, reserved, pessimistic",
+  "Most Compatible": "Tiger, Horse, Rabbit",
+  "Least Compatible": "Dragon, Rooster, Goat"
+ },
+ {
+  "Zodiac": "Dog",
+  "Start Date": "1994-02-10",
+  "End Date": "1995-01-30",
+  "Years": "1946, 1958, 1970, 1982, 1994, 2006, 2018, 2030",
+  "Element": "Earth",
+  "Qualities": "Loyal, sincere, diligent, practical",
+  "Weaknesses": "Stubborn, reserved, pessimistic",
+  "Most Compatible": "Tiger, Horse, Rabbit",
+  "Least Compatible": "Dragon, Rooster, Goat"
+ },
+ {
+  "Zodiac": "Dog",
+  "Start Date": "2006-01-29",
+  "End Date": "2007-02-17",
+  "Years": "1946, 1958, 1970, 1982, 1994, 2006, 2018, 2030",
+  "Element": "Earth",
+  "Qualities": "Loyal, sincere, diligent, practical",
+  "Weaknesses": "Stubborn, reserved, pessimistic",
+  "Most Compatible": "Tiger, Horse, Rabbit",
+  "Least Compatible": "Dragon, Rooster, Goat"
+ },
+ {
+  "Zodiac": "Dog",
+  "Start Date": "2018-02-16",
+  "End Date": "2019-02-04",
+  "Years": "1946, 1958, 1970, 1982, 1994, 2006, 2018, 2030",
+  "Element": "Earth",
+  "Qualities": "Loyal, sincere, diligent, practical",
+  "Weaknesses": "Stubborn, reserved, pessimistic",
+  "Most Compatible": "Tiger, Horse, Rabbit",
+  "Least Compatible": "Dragon, Rooster, Goat"
+ },
+ {
+  "Zodiac": "Dog",
+  "Start Date": "2030-02-03",
+  "End Date": "2031-01-22",
+  "Years": "1946, 1958, 1970, 1982, 1994, 2006, 2018, 2030",
+  "Element": "Earth",
+  "Qualities": "Loyal, sincere, diligent, practical",
+  "Weaknesses": "Stubborn, reserved, pessimistic",
+  "Most Compatible": "Tiger, Horse, Rabbit",
+  "Least Compatible": "Dragon, Rooster, Goat"
+ },
+ {
+  "Zodiac": "Pig",
+  "Start Date": "1935-02-04",
+  "End Date": "1936-01-23",
+  "Years": "1947, 1959, 1971, 1983, 1995, 2007, 2019, 2031",
+  "Element": "Water",
+  "Qualities": "Compassionate, generous, diligent, optimistic",
+  "Weaknesses": "Naive, indulgent, lazy",
+  "Most Compatible": "Rabbit, Goat, Tiger",
+  "Least Compatible": "Monkey, Snake, Rooster"
+ },
+ {
+  "Zodiac": "Pig",
+  "Start Date": "1947-01-22",
+  "End Date": "1948-02-09",
+  "Years": "1947, 1959, 1971, 1983, 1995, 2007, 2019, 2031",
+  "Element": "Water",
+  "Qualities": "Compassionate, generous, diligent, optimistic",
+  "Weaknesses": "Naive, indulgent, lazy",
+  "Most Compatible": "Rabbit, Goat, Tiger",
+  "Least Compatible": "Monkey, Snake, Rooster"
+ },
+ {
+  "Zodiac": "Pig",
+  "Start Date": "1959-02-08",
+  "End Date": "1960-01-27",
+  "Years": "1947, 1959, 1971, 1983, 1995, 2007, 2019, 2031",
+  "Element": "Water",
+  "Qualities": "Compassionate, generous, diligent, optimistic",
+  "Weaknesses": "Naive, indulgent, lazy",
+  "Most Compatible": "Rabbit, Goat, Tiger",
+  "Least Compatible": "Monkey, Snake, Rooster"
+ },
+ {
+  "Zodiac": "Pig",
+  "Start Date": "1971-01-27",
+  "End Date": "1972-02-14",
+  "Years": "1947, 1959, 1971, 1983, 1995, 2007, 2019, 2031",
+  "Element": "Water",
+  "Qualities": "Compassionate, generous, diligent, optimistic",
+  "Weaknesses": "Naive, indulgent, lazy",
+  "Most Compatible": "Rabbit, Goat, Tiger",
+  "Least Compatible": "Monkey, Snake, Rooster"
+ },
+ {
+  "Zodiac": "Pig",
+  "Start Date": "1983-02-13",
+  "End Date": "1984-02-01",
+  "Years": "1947, 1959, 1971, 1983, 1995, 2007, 2019, 2031",
+  "Element": "Water",
+  "Qualities": "Compassionate, generous, diligent, optimistic",
+  "Weaknesses": "Naive, indulgent, lazy",
+  "Most Compatible": "Rabbit, Goat, Tiger",
+  "Least Compatible": "Monkey, Snake, Rooster"
+ },
+ {
+  "Zodiac": "Pig",
+  "Start Date": "1995-01-31",
+  "End Date": "1996-02-18",
+  "Years": "1947, 1959, 1971, 1983, 1995, 2007, 2019, 2031",
+  "Element": "Water",
+  "Qualities": "Compassionate, generous, diligent, optimistic",
+  "Weaknesses": "Naive, indulgent, lazy",
+  "Most Compatible": "Rabbit, Goat, Tiger",
+  "Least Compatible": "Monkey, Snake, Rooster"
+ },
+ {
+  "Zodiac": "Pig",
+  "Start Date": "2007-02-18",
+  "End Date": "2008-02-06",
+  "Years": "1947, 1959, 1971, 1983, 1995, 2007, 2019, 2031",
+  "Element": "Water",
+  "Qualities": "Compassionate, generous, diligent, optimistic",
+  "Weaknesses": "Naive, indulgent, lazy",
+  "Most Compatible": "Rabbit, Goat, Tiger",
+  "Least Compatible": "Monkey, Snake, Rooster"
+ },
+ {
+  "Zodiac": "Pig",
+  "Start Date": "2019-02-05",
+  "End Date": "2020-01-24",
+  "Years": "1947, 1959, 1971, 1983, 1995, 2007, 2019, 2031",
+  "Element": "Water",
+  "Qualities": "Compassionate, generous, diligent, optimistic",
+  "Weaknesses": "Naive, indulgent, lazy",
+  "Most Compatible": "Rabbit, Goat, Tiger",
+  "Least Compatible": "Monkey, Snake, Rooster"
+ },
+ {
+  "Zodiac": "Pig",
+  "Start Date": "2031-01-23",
+  "End Date": "2032-02-10",
+  "Years": "1947, 1959, 1971, 1983, 1995, 2007, 2019, 2031",
+  "Element": "Water",
+  "Qualities": "Compassionate, generous, diligent, optimistic",
+  "Weaknesses": "Naive, indulgent, lazy",
+  "Most Compatible": "Rabbit, Goat, Tiger",
+  "Least Compatible": "Monkey, Snake, Rooster"
  }
 ]
