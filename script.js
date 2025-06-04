@@ -22,7 +22,7 @@ const getZodiacData = (birthDate) => {
 const saveToHistory = (name, birthDate, zodiacInfo) => {
 	const entry = {
 		name,
-		birthDate: birthDate.toDateString(),
+		birthDate: birthDate,
 		zodiac: zodiacInfo.Zodiac,
 		element: zodiacInfo.Element,
 		qualities: zodiacInfo.Qualities,
@@ -34,16 +34,15 @@ const saveToHistory = (name, birthDate, zodiacInfo) => {
 	historyData.push(entry);
 	localStorage.setItem('zodiacHistory', JSON.stringify(historyData));
 	updatePersonSelect();
+	updateHistoryList();
 }
 
 const deleteHistoryEntry = (index) => {
-	if (confirm(`Are you sure you want to delete ${historyData[index].name}'s entry?`)) {
 		historyData.splice(index, 1);
 		localStorage.setItem('zodiacHistory', JSON.stringify(historyData));
 		updatePersonSelect();
 		updateHistoryList();
 		document.getElementById('compatibility-results').innerHTML = '';
-	}
 }
 
 const updateHistoryList = () => {
@@ -56,6 +55,7 @@ const updateHistoryList = () => {
 	}
 
 	historyData.forEach((entry, index) => {
+		entry.birthDate = new Date(entry.birthDate); // Ensure birthDate is a Date object
 		const historyEntry = document.createElement('div');
 		historyEntry.className = 'history-entry';
 
@@ -63,7 +63,7 @@ const updateHistoryList = () => {
 		info.className = 'history-info';
 		info.innerHTML = `
             <span class="history-name">${entry.name}</span>
-            <span class="history-zodiac">${entry.birthDate} - ${entry.zodiac} (${entry.element})</span>
+            <span class="history-zodiac">${entry.birthDate.toDateString()} - ${entry.zodiac} (${entry.element})</span>
         `;
 
 		const deleteBtn = document.createElement('button');
@@ -129,13 +129,14 @@ const displayCompatibilityResults = (selectedIndex) => {
 	// 	leastCompatible: zodiacInfo["Least Compatible"]
 	// }
 	document.getElementById("name").value = selectedPerson.name;
-	document.getElementById("birthdate").value = new Date(selectedPerson.birthDate).toISOString().split('T')[0];
+	document.getElementById("birthdate").value = selectedPerson.birthDate.toISOString().split('T')[0];
 	document.getElementById("animal").textContent = selectedPerson.zodiac;
 	document.getElementById("element").textContent = selectedPerson.element;
 	document.getElementById("qualities").textContent = selectedPerson.qualities;
 	document.getElementById("weaknesses").textContent = selectedPerson.weaknesses;
 	document.getElementById("most-compatible").textContent = selectedPerson.mostCompatible;
 	document.getElementById("least-compatible").textContent = selectedPerson.leastCompatible;
+	document.getElementById("result-image").src = `assets/${selectedPerson.zodiac}.gif`;
 	document.getElementById("result").classList.remove("hidden");
 }
 
