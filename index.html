@@ -1,28 +1,76 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Chinese Zodiac Finder</title>
-  <link rel="stylesheet" href="style.css" />
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Chinese Zodiac Finder</title>
+	<link rel="stylesheet" href="style.css" />
 </head>
+
 <body>
-  <div class="container">
-    <h1>🐲 What’s Your Chinese Zodiac?</h1>
-    <form id="zodiacForm">
-      <label for="birthdate">Enter your birthdate:</label>
-      <input type="date" id="birthdate" required />
-      <button type="submit">Reveal My Zodiac</button>
-    </form>
-    <div id="result" class="hidden">
-      <h2>Your Zodiac Animal: <span id="animal"></span></h2>
-      <h2>Element: <span id="element"></span></h2>
-      <p>Qualities: <span id="qualities"></span></p>
-      <p>Weaknesses: <span id="weaknesses"></span></p>
-      <p>Most compatible with: <span id="most-compatible"></span></p>
-      <p>Least compatible with: <span id="least-compatible"></span></p>
-    </div>
-  </div>
-  <script src="script.js"></script>
+	<div id="container">
+		<div id="mode-switch">
+			<button id="clear-history-btn" class="mode-btn danger">Clear History</button>
+		</div>
+
+		<div id="main-container">
+			<div id="input-mode" class="mode-container">
+				<div id="left-container">
+					<div id="qualities-container" class="result-window-container">
+						<h2 class="result-title">Qualities</h2>
+						<p id="qualities" class="result"></p>
+					</div>
+					<div id="weaknesses-container" class="result-window-container">
+						<h2 class="result-title">Weaknesses</h2>
+						<p id="weaknesses" class="result"></p>
+					</div>
+				</div>
+				<div id="center-container">
+					<h1 id="zodiac-form-title">Enter your details:</h1>
+					<form id="zodiacForm">
+						<input type="text" id="name" placeholder="Enter your name" required />
+						<input type="date" id="birthdate" required />
+						<button type="submit">Reveal My Zodiac</button>
+					</form>
+					<div id="result" class="hidden">
+						<h2>Your Zodiac Animal: <span id="animal"></span></h2>
+						<h2>Element: <span id="element"></span></h2>
+					</div>
+				</div>
+				<div id="right-container">
+					<div id="most-compatible-container" class="result-window-container">
+						<h2 class="result-title">Most Compatible</h2>
+						<p id="most-compatible" class="result"></p>
+					</div>
+					<div id="least-compatible-container" class="result-window-container">
+						<h2 class="result-title">Least Compatible</h2>
+						<p id="least-compatible" class="result"></p>
+					</div>
+				</div>
+			</div>
+			<div id="compare-mode" class="mode-container">
+				<div class="compare-section">
+					<div class="history-section">
+						<h2>History</h2>
+						<div id="history-list">
+							<!-- History entries will be populated here -->
+						</div>
+					</div>
+					<div class="comparison-section">
+						<h2>Select a person to view:</h2>
+						<select id="person-select">
+							<option value="">Choose a person</option>
+						</select>
+						<div id="compatibility-results">
+							<!-- Results will be populated here -->
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script src="script.js"></script>
 </body>
+
 </html>

@@ -1,201 +1,201 @@
 [
  {
-  "Zodiac": "Rat",
+  "Zodiac": "Mouse",
   "Start Date": "1924-02-05",
   "End Date": "1925-01-24",
   "Years": "1936, 1948, 1960, 1972, 1984, 1996, 2008, 2020",
   "Element": "Wood",
   "Qualities": "Intelligent, adaptable, sociable, ambitious",
   "Weaknesses": "Impulsive, stubborn, opportunistic",
-  "Most Compatible": "Ox, Dragon, Monkey",
+  "Most Compatible": "Bull, Dragon, Monkey",
   "Least Compatible": "Horse, Rabbit, Rooster"
  },
  {
-  "Zodiac": "Rat",
+  "Zodiac": "Mouse",
   "Start Date": "1936-01-24",
   "End Date": "1937-02-10",
   "Years": "1936, 1948, 1960, 1972, 1984, 1996, 2008, 2020",
   "Element": "Fire",
   "Qualities": "Intelligent, adaptable, sociable, ambitious",
   "Weaknesses": "Impulsive, stubborn, opportunistic",
-  "Most Compatible": "Ox, Dragon, Monkey",
+  "Most Compatible": "Bull, Dragon, Monkey",
   "Least Compatible": "Horse, Rabbit, Rooster"
  },
  {
-  "Zodiac": "Rat",
+  "Zodiac": "Mouse",
   "Start Date": "1948-02-10",
   "End Date": "1949-01-28",
   "Years": "1936, 1948, 1960, 1972, 1984, 1996, 2008, 2020",
   "Element": "Earth",
   "Qualities": "Intelligent, adaptable, sociable, ambitious",
   "Weaknesses": "Impulsive, stubborn, opportunistic",
-  "Most Compatible": "Ox, Dragon, Monkey",
+  "Most Compatible": "Bull, Dragon, Monkey",
   "Least Compatible": "Horse, Rabbit, Rooster"
  },
  {
-  "Zodiac": "Rat",
+  "Zodiac": "Mouse",
   "Start Date": "1960-01-28",
   "End Date": "1961-02-14",
   "Years": "1936, 1948, 1960, 1972, 1984, 1996, 2008, 2020",
   "Element": "Metal",
   "Qualities": "Intelligent, adaptable, sociable, ambitious",
   "Weaknesses": "Impulsive, stubborn, opportunistic",
-  "Most Compatible": "Ox, Dragon, Monkey",
+  "Most Compatible": "Bull, Dragon, Monkey",
   "Least Compatible": "Horse, Rabbit, Rooster"
  },
  {
-  "Zodiac": "Rat",
+  "Zodiac": "Mouse",
   "Start Date": "1972-02-15",
   "End Date": "1973-02-02",
   "Years": "1936, 1948, 1960, 1972, 1984, 1996, 2008, 2020",
   "Element": "Water",
   "Qualities": "Intelligent, adaptable, sociable, ambitious",
   "Weaknesses": "Impulsive, stubborn, opportunistic",
-  "Most Compatible": "Ox, Dragon, Monkey",
+  "Most Compatible": "Bull, Dragon, Monkey",
   "Least Compatible": "Horse, Rabbit, Rooster"
  },
  {
-  "Zodiac": "Rat",
+  "Zodiac": "Mouse",
   "Start Date": "1984-02-02",
   "End Date": "1985-02-19",
   "Years": "1936, 1948, 1960, 1972, 1984, 1996, 2008, 2020",
   "Element": "Wood",
   "Qualities": "Intelligent, adaptable, sociable, ambitious",
   "Weaknesses": "Impulsive, stubborn, opportunistic",
-  "Most Compatible": "Ox, Dragon, Monkey",
+  "Most Compatible": "Bull, Dragon, Monkey",
   "Least Compatible": "Horse, Rabbit, Rooster"
  },
  {
-  "Zodiac": "Rat",
+  "Zodiac": "Mouse",
   "Start Date": "1996-02-19",
   "End Date": "1997-02-06",
   "Years": "1936, 1948, 1960, 1972, 1984, 1996, 2008, 2020",
   "Element": "Fire",
   "Qualities": "Intelligent, adaptable, sociable, ambitious",
   "Weaknesses": "Impulsive, stubborn, opportunistic",
-  "Most Compatible": "Ox, Dragon, Monkey",
+  "Most Compatible": "Bull, Dragon, Monkey",
   "Least Compatible": "Horse, Rabbit, Rooster"
  },
  {
-  "Zodiac": "Rat",
+  "Zodiac": "Mouse",
   "Start Date": "2008-02-07",
   "End Date": "2009-01-25",
   "Years": "1936, 1948, 1960, 1972, 1984, 1996, 2008, 2020",
   "Element": "Earth",
   "Qualities": "Intelligent, adaptable, sociable, ambitious",
   "Weaknesses": "Impulsive, stubborn, opportunistic",
-  "Most Compatible": "Ox, Dragon, Monkey",
+  "Most Compatible": "Bull, Dragon, Monkey",
   "Least Compatible": "Horse, Rabbit, Rooster"
  },
  {
-  "Zodiac": "Rat",
+  "Zodiac": "Mouse",
   "Start Date": "2020-01-25",
   "End Date": "2021-02-11",
   "Years": "1936, 1948, 1960, 1972, 1984, 1996, 2008, 2020",
   "Element": "Metal",
   "Qualities": "Intelligent, adaptable, sociable, ambitious",
   "Weaknesses": "Impulsive, stubborn, opportunistic",
-  "Most Compatible": "Ox, Dragon, Monkey",
+  "Most Compatible": "Bull, Dragon, Monkey",
   "Least Compatible": "Horse, Rabbit, Rooster"
  },
  {
-  "Zodiac": "Ox",
+  "Zodiac": "Bull",
   "Start Date": "1925-01-25",
   "End Date": "1926-02-12",
   "Years": "1937, 1949, 1961, 1973, 1985, 1997, 2009, 2021",
   "Element": "Wood",
   "Qualities": "Diligent, reliable, patient, methodical",
   "Weaknesses": "Stubborn, inflexible, reserved",
-  "Most Compatible": "Rat, Snake, Rooster",
-  "Least Compatible": "Goat, Horse, Tiger"
+  "Most Compatible": "Mouse, Snake, Rooster",
+  "Least Compatible": "Sheep, Horse, Tiger"
  },
  {
-  "Zodiac": "Ox",
+  "Zodiac": "Bull",
   "Start Date": "1937-02-11",
   "End Date": "1938-01-30",
   "Years": "1937, 1949, 1961, 1973, 1985, 1997, 2009, 2021",
   "Element": "Fire",
   "Qualities": "Diligent, reliable, patient, methodical",
   "Weaknesses": "Stubborn, inflexible, reserved",
-  "Most Compatible": "Rat, Snake, Rooster",
-  "Least Compatible": "Goat, Horse, Tiger"
+  "Most Compatible": "Mouse, Snake, Rooster",
+  "Least Compatible": "Sheep, Horse, Tiger"
  },
  {
-  "Zodiac": "Ox",
+  "Zodiac": "Bull",
   "Start Date": "1949-01-29",
   "End Date": "1950-02-16",
   "Years": "1937, 1949, 1961, 1973, 1985, 1997, 2009, 2021",
   "Element": "Earth",
   "Qualities": "Diligent, reliable, patient, methodical",
   "Weaknesses": "Stubborn, inflexible, reserved",
-  "Most Compatible": "Rat, Snake, Rooster",
-  "Least Compatible": "Goat, Horse, Tiger"
+  "Most Compatible": "Mouse, Snake, Rooster",
+  "Least Compatible": "Sheep, Horse, Tiger"
  },
  {
-  "Zodiac": "Ox",
+  "Zodiac": "Bull",
   "Start Date": "1961-02-15",
   "End Date": "1962-02-04",
   "Years": "1937, 1949, 1961, 1973, 1985, 1997, 2009, 2021",
   "Element": "Metal",
   "Qualities": "Diligent, reliable, patient, methodical",
   "Weaknesses": "Stubborn, inflexible, reserved",
-  "Most Compatible": "Rat, Snake, Rooster",
-  "Least Compatible": "Goat, Horse, Tiger"
+  "Most Compatible": "Mouse, Snake, Rooster",
+  "Least Compatible": "Sheep, Horse, Tiger"
  },
  {
-  "Zodiac": "Ox",
+  "Zodiac": "Bull",
   "Start Date": "1973-02-03",
   "End Date": "1974-01-22",
   "Years": "1937, 1949, 1961, 1973, 1985, 1997, 2009, 2021",
   "Element": "Water",
   "Qualities": "Diligent, reliable, patient, methodical",
   "Weaknesses": "Stubborn, inflexible, reserved",
-  "Most Compatible": "Rat, Snake, Rooster",
-  "Least Compatible": "Goat, Horse, Tiger"
+  "Most Compatible": "Mouse, Snake, Rooster",
+  "Least Compatible": "Sheep, Horse, Tiger"
  },
  {
-  "Zodiac": "Ox",
+  "Zodiac": "Bull",
   "Start Date": "1985-02-20",
   "End Date": "1986-02-08",
   "Years": "1937, 1949, 1961, 1973, 1985, 1997, 2009, 2021",
   "Element": "Wood",
   "Qualities": "Diligent, reliable, patient, methodical",
   "Weaknesses": "Stubborn, inflexible, reserved",
-  "Most Compatible": "Rat, Snake, Rooster",
-  "Least Compatible": "Goat, Horse, Tiger"
+  "Most Compatible": "Mouse, Snake, Rooster",
+  "Least Compatible": "Sheep, Horse, Tiger"
  },
  {
-  "Zodiac": "Ox",
+  "Zodiac": "Bull",
   "Start Date": "1997-02-07",
   "End Date": "1998-01-27",
   "Years": "1937, 1949, 1961, 1973, 1985, 1997, 2009, 2021",
   "Element": "Fire",
   "Qualities": "Diligent, reliable, patient, methodical",
   "Weaknesses": "Stubborn, inflexible, reserved",
-  "Most Compatible": "Rat, Snake, Rooster",
-  "Least Compatible": "Goat, Horse, Tiger"
+  "Most Compatible": "Mouse, Snake, Rooster",
+  "Least Compatible": "Sheep, Horse, Tiger"
  },
  {
-  "Zodiac": "Ox",
+  "Zodiac": "Bull",
   "Start Date": "2009-01-26",
   "End Date": "2010-02-13",
   "Years": "1937, 1949, 1961, 1973, 1985, 1997, 2009, 2021",
   "Element": "Earth",
   "Qualities": "Diligent, reliable, patient, methodical",
   "Weaknesses": "Stubborn, inflexible, reserved",
-  "Most Compatible": "Rat, Snake, Rooster",
-  "Least Compatible": "Goat, Horse, Tiger"
+  "Most Compatible": "Mouse, Snake, Rooster",
+  "Least Compatible": "Sheep, Horse, Tiger"
  },
  {
-  "Zodiac": "Ox",
+  "Zodiac": "Bull",
   "Start Date": "2021-02-12",
   "End Date": "2022-01-31",
   "Years": "1937, 1949, 1961, 1973, 1985, 1997, 2009, 2021",
   "Element": "Metal",
   "Qualities": "Diligent, reliable, patient, methodical",
   "Weaknesses": "Stubborn, inflexible, reserved",
-  "Most Compatible": "Rat, Snake, Rooster",
-  "Least Compatible": "Goat, Horse, Tiger"
+  "Most Compatible": "Mouse, Snake, Rooster",
+  "Least Compatible": "Sheep, Horse, Tiger"
  },
  {
   "Zodiac": "Tiger",
@@ -206,7 +206,7 @@
   "Qualities": "Brave, confident, competitive, charismatic",
   "Weaknesses": "Impulsive, impatient, arrogant",
   "Most Compatible": "Horse, Dog, Pig",
-  "Least Compatible": "Monkey, Ox, Snake"
+  "Least Compatible": "Monkey, Bull, Snake"
  },
  {
   "Zodiac": "Tiger",
@@ -217,7 +217,7 @@
   "Qualities": "Brave, confident, competitive, charismatic",
   "Weaknesses": "Impulsive, impatient, arrogant",
   "Most Compatible": "Horse, Dog, Pig",
-  "Least Compatible": "Monkey, Ox, Snake"
+  "Least Compatible": "Monkey, Bull, Snake"
  },
  {
   "Zodiac": "Tiger",
@@ -228,7 +228,7 @@
   "Qualities": "Brave, confident, competitive, charismatic",
   "Weaknesses": "Impulsive, impatient, arrogant",
   "Most Compatible": "Horse, Dog, Pig",
-  "Least Compatible": "Monkey, Ox, Snake"
+  "Least Compatible": "Monkey, Bull, Snake"
  },
  {
   "Zodiac": "Tiger",
@@ -239,7 +239,7 @@
   "Qualities": "Brave, confident, competitive, charismatic",
   "Weaknesses": "Impulsive, impatient, arrogant",
   "Most Compatible": "Horse, Dog, Pig",
-  "Least Compatible": "Monkey, Ox, Snake"
+  "Least Compatible": "Monkey, Bull, Snake"
  },
  {
   "Zodiac": "Tiger",
@@ -250,7 +250,7 @@
   "Qualities": "Brave, confident, competitive, charismatic",
   "Weaknesses": "Impulsive, impatient, arrogant",
   "Most Compatible": "Horse, Dog, Pig",
-  "Least Compatible": "Monkey, Ox, Snake"
+  "Least Compatible": "Monkey, Bull, Snake"
  },
  {
   "Zodiac": "Tiger",
@@ -261,7 +261,7 @@
   "Qualities": "Brave, confident, competitive, charismatic",
   "Weaknesses": "Impulsive, impatient, arrogant",
   "Most Compatible": "Horse, Dog, Pig",
-  "Least Compatible": "Monkey, Ox, Snake"
+  "Least Compatible": "Monkey, Bull, Snake"
  },
  {
   "Zodiac": "Tiger",
@@ -272,7 +272,7 @@
   "Qualities": "Brave, confident, competitive, charismatic",
   "Weaknesses": "Impulsive, impatient, arrogant",
   "Most Compatible": "Horse, Dog, Pig",
-  "Least Compatible": "Monkey, Ox, Snake"
+  "Least Compatible": "Monkey, Bull, Snake"
  },
  {
   "Zodiac": "Tiger",
@@ -283,7 +283,7 @@
   "Qualities": "Brave, confident, competitive, charismatic",
   "Weaknesses": "Impulsive, impatient, arrogant",
   "Most Compatible": "Horse, Dog, Pig",
-  "Least Compatible": "Monkey, Ox, Snake"
+  "Least Compatible": "Monkey, Bull, Snake"
  },
  {
   "Zodiac": "Tiger",
@@ -294,7 +294,7 @@
   "Qualities": "Brave, confident, competitive, charismatic",
   "Weaknesses": "Impulsive, impatient, arrogant",
   "Most Compatible": "Horse, Dog, Pig",
-  "Least Compatible": "Monkey, Ox, Snake"
+  "Least Compatible": "Monkey, Bull, Snake"
  },
  {
   "Zodiac": "Rabbit",
@@ -304,8 +304,8 @@
   "Element": "Fire",
   "Qualities": "Gentle, compassionate, sensitive, intuitive",
   "Weaknesses": "Evasive, insecure, overly cautious",
-  "Most Compatible": "Goat, Pig, Dog",
-  "Least Compatible": "Rooster, Rat, Dragon"
+  "Most Compatible": "Sheep, Pig, Dog",
+  "Least Compatible": "Rooster, Mouse, Dragon"
  },
  {
   "Zodiac": "Rabbit",
@@ -315,8 +315,8 @@
   "Element": "Earth",
   "Qualities": "Gentle, compassionate, sensitive, intuitive",
   "Weaknesses": "Evasive, insecure, overly cautious",
-  "Most Compatible": "Goat, Pig, Dog",
-  "Least Compatible": "Rooster, Rat, Dragon"
+  "Most Compatible": "Sheep, Pig, Dog",
+  "Least Compatible": "Rooster, Mouse, Dragon"
  },
  {
   "Zodiac": "Rabbit",
@@ -326,8 +326,8 @@
   "Element": "Metal",
   "Qualities": "Gentle, compassionate, sensitive, intuitive",
   "Weaknesses": "Evasive, insecure, overly cautious",
-  "Most Compatible": "Goat, Pig, Dog",
-  "Least Compatible": "Rooster, Rat, Dragon"
+  "Most Compatible": "Sheep, Pig, Dog",
+  "Least Compatible": "Rooster, Mouse, Dragon"
  },
  {
   "Zodiac": "Rabbit",
@@ -337,8 +337,8 @@
   "Element": "Water",
   "Qualities": "Gentle, compassionate, sensitive, intuitive",
   "Weaknesses": "Evasive, insecure, overly cautious",
-  "Most Compatible": "Goat, Pig, Dog",
-  "Least Compatible": "Rooster, Rat, Dragon"
+  "Most Compatible": "Sheep, Pig, Dog",
+  "Least Compatible": "Rooster, Mouse, Dragon"
  },
  {
   "Zodiac": "Rabbit",
@@ -348,8 +348,8 @@
   "Element": "Wood",
   "Qualities": "Gentle, compassionate, sensitive, intuitive",
   "Weaknesses": "Evasive, insecure, overly cautious",
-  "Most Compatible": "Goat, Pig, Dog",
-  "Least Compatible": "Rooster, Rat, Dragon"
+  "Most Compatible": "Sheep, Pig, Dog",
+  "Least Compatible": "Rooster, Mouse, Dragon"
  },
  {
   "Zodiac": "Rabbit",
@@ -359,8 +359,8 @@
   "Element": "Fire",
   "Qualities": "Gentle, compassionate, sensitive, intuitive",
   "Weaknesses": "Evasive, insecure, overly cautious",
-  "Most Compatible": "Goat, Pig, Dog",
-  "Least Compatible": "Rooster, Rat, Dragon"
+  "Most Compatible": "Sheep, Pig, Dog",
+  "Least Compatible": "Rooster, Mouse, Dragon"
  },
  {
   "Zodiac": "Rabbit",
@@ -370,8 +370,8 @@
   "Element": "Earth",
   "Qualities": "Gentle, compassionate, sensitive, intuitive",
   "Weaknesses": "Evasive, insecure, overly cautious",
-  "Most Compatible": "Goat, Pig, Dog",
-  "Least Compatible": "Rooster, Rat, Dragon"
+  "Most Compatible": "Sheep, Pig, Dog",
+  "Least Compatible": "Rooster, Mouse, Dragon"
  },
  {
   "Zodiac": "Rabbit",
@@ -381,8 +381,8 @@
   "Element": "Metal",
   "Qualities": "Gentle, compassionate, sensitive, intuitive",
   "Weaknesses": "Evasive, insecure, overly cautious",
-  "Most Compatible": "Goat, Pig, Dog",
-  "Least Compatible": "Rooster, Rat, Dragon"
+  "Most Compatible": "Sheep, Pig, Dog",
+  "Least Compatible": "Rooster, Mouse, Dragon"
  },
  {
   "Zodiac": "Rabbit",
@@ -392,8 +392,8 @@
   "Element": "Water",
   "Qualities": "Gentle, compassionate, sensitive, intuitive",
   "Weaknesses": "Evasive, insecure, overly cautious",
-  "Most Compatible": "Goat, Pig, Dog",
-  "Least Compatible": "Rooster, Rat, Dragon"
+  "Most Compatible": "Sheep, Pig, Dog",
+  "Least Compatible": "Rooster, Mouse, Dragon"
  },
  {
   "Zodiac": "Dragon",
@@ -403,8 +403,8 @@
   "Element": "Earth",
   "Qualities": "Charismatic, energetic, ambitious, confident",
   "Weaknesses": "Arrogant, impatient, stubborn",
-  "Most Compatible": "Rat, Monkey, Rooster",
-  "Least Compatible": "Dog, Rabbit, Ox"
+  "Most Compatible": "Mouse, Monkey, Rooster",
+  "Least Compatible": "Dog, Rabbit, Bull"
  },
  {
   "Zodiac": "Dragon",
@@ -414,8 +414,8 @@
   "Element": "Metal",
   "Qualities": "Charismatic, energetic, ambitious, confident",
   "Weaknesses": "Arrogant, impatient, stubborn",
-  "Most Compatible": "Rat, Monkey, Rooster",
-  "Least Compatible": "Dog, Rabbit, Ox"
+  "Most Compatible": "Mouse, Monkey, Rooster",
+  "Least Compatible": "Dog, Rabbit, Bull"
  },
  {
   "Zodiac": "Dragon",
@@ -425,8 +425,8 @@
   "Element": "Water",
   "Qualities": "Charismatic, energetic, ambitious, confident",
   "Weaknesses": "Arrogant, impatient, stubborn",
-  "Most Compatible": "Rat, Monkey, Rooster",
-  "Least Compatible": "Dog, Rabbit, Ox"
+  "Most Compatible": "Mouse, Monkey, Rooster",
+  "Least Compatible": "Dog, Rabbit, Bull"
  },
  {
   "Zodiac": "Dragon",
@@ -436,8 +436,8 @@
   "Element": "Wood",
   "Qualities": "Charismatic, energetic, ambitious, confident",
   "Weaknesses": "Arrogant, impatient, stubborn",
-  "Most Compatible": "Rat, Monkey, Rooster",
-  "Least Compatible": "Dog, Rabbit, Ox"
+  "Most Compatible": "Mouse, Monkey, Rooster",
+  "Least Compatible": "Dog, Rabbit, Bull"
  },
  {
   "Zodiac": "Dragon",
@@ -447,8 +447,8 @@
   "Element": "Fire",
   "Qualities": "Charismatic, energetic, ambitious, confident",
   "Weaknesses": "Arrogant, impatient, stubborn",
-  "Most Compatible": "Rat, Monkey, Rooster",
-  "Least Compatible": "Dog, Rabbit, Ox"
+  "Most Compatible": "Mouse, Monkey, Rooster",
+  "Least Compatible": "Dog, Rabbit, Bull"
  },
  {
   "Zodiac": "Dragon",
@@ -458,8 +458,8 @@
   "Element": "Earth",
   "Qualities": "Charismatic, energetic, ambitious, confident",
   "Weaknesses": "Arrogant, impatient, stubborn",
-  "Most Compatible": "Rat, Monkey, Rooster",
-  "Least Compatible": "Dog, Rabbit, Ox"
+  "Most Compatible": "Mouse, Monkey, Rooster",
+  "Least Compatible": "Dog, Rabbit, Bull"
  },
  {
   "Zodiac": "Dragon",
@@ -469,8 +469,8 @@
   "Element": "Metal",
   "Qualities": "Charismatic, energetic, ambitious, confident",
   "Weaknesses": "Arrogant, impatient, stubborn",
-  "Most Compatible": "Rat, Monkey, Rooster",
-  "Least Compatible": "Dog, Rabbit, Ox"
+  "Most Compatible": "Mouse, Monkey, Rooster",
+  "Least Compatible": "Dog, Rabbit, Bull"
  },
  {
   "Zodiac": "Dragon",
@@ -480,8 +480,8 @@
   "Element": "Water",
   "Qualities": "Charismatic, energetic, ambitious, confident",
   "Weaknesses": "Arrogant, impatient, stubborn",
-  "Most Compatible": "Rat, Monkey, Rooster",
-  "Least Compatible": "Dog, Rabbit, Ox"
+  "Most Compatible": "Mouse, Monkey, Rooster",
+  "Least Compatible": "Dog, Rabbit, Bull"
  },
  {
   "Zodiac": "Dragon",
@@ -491,8 +491,8 @@
   "Element": "Wood",
   "Qualities": "Charismatic, energetic, ambitious, confident",
   "Weaknesses": "Arrogant, impatient, stubborn",
-  "Most Compatible": "Rat, Monkey, Rooster",
-  "Least Compatible": "Dog, Rabbit, Ox"
+  "Most Compatible": "Mouse, Monkey, Rooster",
+  "Least Compatible": "Dog, Rabbit, Bull"
  },
  {
   "Zodiac": "Snake",
@@ -502,7 +502,7 @@
   "Element": "Earth",
   "Qualities": "Wise, intuitive, mysterious, determined",
   "Weaknesses": "Jealous, possessive, reserved",
-  "Most Compatible": "Ox, Rooster, Monkey",
+  "Most Compatible": "Bull, Rooster, Monkey",
   "Least Compatible": "Tiger, Pig, Rabbit"
  },
  {
@@ -513,7 +513,7 @@
   "Element": "Metal",
   "Qualities": "Wise, intuitive, mysterious, determined",
   "Weaknesses": "Jealous, possessive, reserved",
-  "Most Compatible": "Ox, Rooster, Monkey",
+  "Most Compatible": "Bull, Rooster, Monkey",
   "Least Compatible": "Tiger, Pig, Rabbit"
  },
  {
@@ -524,7 +524,7 @@
   "Element": "Water",
   "Qualities": "Wise, intuitive, mysterious, determined",
   "Weaknesses": "Jealous, possessive, reserved",
-  "Most Compatible": "Ox, Rooster, Monkey",
+  "Most Compatible": "Bull, Rooster, Monkey",
   "Least Compatible": "Tiger, Pig, Rabbit"
  },
  {
@@ -535,7 +535,7 @@
   "Element": "Wood",
   "Qualities": "Wise, intuitive, mysterious, determined",
   "Weaknesses": "Jealous, possessive, reserved",
-  "Most Compatible": "Ox, Rooster, Monkey",
+  "Most Compatible": "Bull, Rooster, Monkey",
   "Least Compatible": "Tiger, Pig, Rabbit"
  },
  {
@@ -546,7 +546,7 @@
   "Element": "Fire",
   "Qualities": "Wise, intuitive, mysterious, determined",
   "Weaknesses": "Jealous, possessive, reserved",
-  "Most Compatible": "Ox, Rooster, Monkey",
+  "Most Compatible": "Bull, Rooster, Monkey",
   "Least Compatible": "Tiger, Pig, Rabbit"
  },
  {
@@ -557,7 +557,7 @@
   "Element": "Earth",
   "Qualities": "Wise, intuitive, mysterious, determined",
   "Weaknesses": "Jealous, possessive, reserved",
-  "Most Compatible": "Ox, Rooster, Monkey",
+  "Most Compatible": "Bull, Rooster, Monkey",
   "Least Compatible": "Tiger, Pig, Rabbit"
  },
  {
@@ -568,7 +568,7 @@
   "Element": "Metal",
   "Qualities": "Wise, intuitive, mysterious, determined",
   "Weaknesses": "Jealous, possessive, reserved",
-  "Most Compatible": "Ox, Rooster, Monkey",
+  "Most Compatible": "Bull, Rooster, Monkey",
   "Least Compatible": "Tiger, Pig, Rabbit"
  },
  {
@@ -579,7 +579,7 @@
   "Element": "Water",
   "Qualities": "Wise, intuitive, mysterious, determined",
   "Weaknesses": "Jealous, possessive, reserved",
-  "Most Compatible": "Ox, Rooster, Monkey",
+  "Most Compatible": "Bull, Rooster, Monkey",
   "Least Compatible": "Tiger, Pig, Rabbit"
  },
  {
@@ -590,7 +590,7 @@
   "Element": "Wood",
   "Qualities": "Wise, intuitive, mysterious, determined",
   "Weaknesses": "Jealous, possessive, reserved",
-  "Most Compatible": "Ox, Rooster, Monkey",
+  "Most Compatible": "Bull, Rooster, Monkey",
   "Least Compatible": "Tiger, Pig, Rabbit"
  },
  {
@@ -601,8 +601,8 @@
   "Element": "Metal",
   "Qualities": "Energetic, charismatic, independent, hard-working",
   "Weaknesses": "Impatient, impulsive, stubborn",
-  "Most Compatible": "Tiger, Dog, Goat",
-  "Least Compatible": "Rat, Ox, Rabbit"
+  "Most Compatible": "Tiger, Dog, Sheep",
+  "Least Compatible": "Mouse, Bull, Rabbit"
  },
  {
   "Zodiac": "Horse",
@@ -612,8 +612,8 @@
   "Element": "Water",
   "Qualities": "Energetic, charismatic, independent, hard-working",
   "Weaknesses": "Impatient, impulsive, stubborn",
-  "Most Compatible": "Tiger, Dog, Goat",
-  "Least Compatible": "Rat, Ox, Rabbit"
+  "Most Compatible": "Tiger, Dog, Sheep",
+  "Least Compatible": "Mouse, Bull, Rabbit"
  },
  {
   "Zodiac": "Horse",
@@ -623,8 +623,8 @@
   "Element": "Wood",
   "Qualities": "Energetic, charismatic, independent, hard-working",
   "Weaknesses": "Impatient, impulsive, stubborn",
-  "Most Compatible": "Tiger, Dog, Goat",
-  "Least Compatible": "Rat, Ox, Rabbit"
+  "Most Compatible": "Tiger, Dog, Sheep",
+  "Least Compatible": "Mouse, Bull, Rabbit"
  },
  {
   "Zodiac": "Horse",
@@ -634,8 +634,8 @@
   "Element": "Fire",
   "Qualities": "Energetic, charismatic, independent, hard-working",
   "Weaknesses": "Impatient, impulsive, stubborn",
-  "Most Compatible": "Tiger, Dog, Goat",
-  "Least Compatible": "Rat, Ox, Rabbit"
+  "Most Compatible": "Tiger, Dog, Sheep",
+  "Least Compatible": "Mouse, Bull, Rabbit"
  },
  {
   "Zodiac": "Horse",
@@ -645,8 +645,8 @@
   "Element": "Earth",
   "Qualities": "Energetic, charismatic, independent, hard-working",
   "Weaknesses": "Impatient, impulsive, stubborn",
-  "Most Compatible": "Tiger, Dog, Goat",
-  "Least Compatible": "Rat, Ox, Rabbit"
+  "Most Compatible": "Tiger, Dog, Sheep",
+  "Least Compatible": "Mouse, Bull, Rabbit"
  },
  {
   "Zodiac": "Horse",
@@ -656,8 +656,8 @@
   "Element": "Metal",
   "Qualities": "Energetic, charismatic, independent, hard-working",
   "Weaknesses": "Impatient, impulsive, stubborn",
-  "Most Compatible": "Tiger, Dog, Goat",
-  "Least Compatible": "Rat, Ox, Rabbit"
+  "Most Compatible": "Tiger, Dog, Sheep",
+  "Least Compatible": "Mouse, Bull, Rabbit"
  },
  {
   "Zodiac": "Horse",
@@ -667,8 +667,8 @@
   "Element": "Water",
   "Qualities": "Energetic, charismatic, independent, hard-working",
   "Weaknesses": "Impatient, impulsive, stubborn",
-  "Most Compatible": "Tiger, Dog, Goat",
-  "Least Compatible": "Rat, Ox, Rabbit"
+  "Most Compatible": "Tiger, Dog, Sheep",
+  "Least Compatible": "Mouse, Bull, Rabbit"
  },
  {
   "Zodiac": "Horse",
@@ -678,8 +678,8 @@
   "Element": "Wood",
   "Qualities": "Energetic, charismatic, independent, hard-working",
   "Weaknesses": "Impatient, impulsive, stubborn",
-  "Most Compatible": "Tiger, Dog, Goat",
-  "Least Compatible": "Rat, Ox, Rabbit"
+  "Most Compatible": "Tiger, Dog, Sheep",
+  "Least Compatible": "Mouse, Bull, Rabbit"
  },
  {
   "Zodiac": "Horse",
@@ -689,11 +689,11 @@
   "Element": "Fire",
   "Qualities": "Energetic, charismatic, independent, hard-working",
   "Weaknesses": "Impatient, impulsive, stubborn",
-  "Most Compatible": "Tiger, Dog, Goat",
-  "Least Compatible": "Rat, Ox, Rabbit"
+  "Most Compatible": "Tiger, Dog, Sheep",
+  "Least Compatible": "Mouse, Bull, Rabbit"
  },
  {
-  "Zodiac": "Goat",
+  "Zodiac": "Sheep",
   "Start Date": "1931-02-17",
   "End Date": "1932-02-05",
   "Years": "1943, 1955, 1967, 1979, 1991, 2003, 2015, 2027",
@@ -701,10 +701,10 @@
   "Qualities": "Kind, compassionate, imaginative, creative",
   "Weaknesses": "Insecure, indecisive, pessimistic",
   "Most Compatible": "Rabbit, Pig, Horse",
-  "Least Compatible": "Ox, Rat, Dog"
+  "Least Compatible": "Bull, Mouse, Dog"
  },
  {
-  "Zodiac": "Goat",
+  "Zodiac": "Sheep",
   "Start Date": "1943-02-05",
   "End Date": "1944-01-24",
   "Years": "1943, 1955, 1967, 1979, 1991, 2003, 2015, 2027",
@@ -712,10 +712,10 @@
   "Qualities": "Kind, compassionate, imaginative, creative",
   "Weaknesses": "Insecure, indecisive, pessimistic",
   "Most Compatible": "Rabbit, Pig, Horse",
-  "Least Compatible": "Ox, Rat, Dog"
+  "Least Compatible": "Bull, Mouse, Dog"
  },
  {
-  "Zodiac": "Goat",
+  "Zodiac": "Sheep",
   "Start Date": "1955-01-24",
   "End Date": "1956-02-11",
   "Years": "1943, 1955, 1967, 1979, 1991, 2003, 2015, 2027",
@@ -723,10 +723,10 @@
   "Qualities": "Kind, compassionate, imaginative, creative",
   "Weaknesses": "Insecure, indecisive, pessimistic",
   "Most Compatible": "Rabbit, Pig, Horse",
-  "Least Compatible": "Ox, Rat, Dog"
+  "Least Compatible": "Bull, Mouse, Dog"
  },
  {
-  "Zodiac": "Goat",
+  "Zodiac": "Sheep",
   "Start Date": "1967-02-09",
   "End Date": "1968-01-29",
   "Years": "1943, 1955, 1967, 1979, 1991, 2003, 2015, 2027",
@@ -734,10 +734,10 @@
   "Qualities": "Kind, compassionate, imaginative, creative",
   "Weaknesses": "Insecure, indecisive, pessimistic",
   "Most Compatible": "Rabbit, Pig, Horse",
-  "Least Compatible": "Ox, Rat, Dog"
+  "Least Compatible": "Bull, Mouse, Dog"
  },
  {
-  "Zodiac": "Goat",
+  "Zodiac": "Sheep",
   "Start Date": "1979-01-28",
   "End Date": "1980-02-15",
   "Years": "1943, 1955, 1967, 1979, 1991, 2003, 2015, 2027",
@@ -745,10 +745,10 @@
   "Qualities": "Kind, compassionate, imaginative, creative",
   "Weaknesses": "Insecure, indecisive, pessimistic",
   "Most Compatible": "Rabbit, Pig, Horse",
-  "Least Compatible": "Ox, Rat, Dog"
+  "Least Compatible": "Bull, Mouse, Dog"
  },
  {
-  "Zodiac": "Goat",
+  "Zodiac": "Sheep",
   "Start Date": "1991-02-15",
   "End Date": "1992-02-03",
   "Years": "1943, 1955, 1967, 1979, 1991, 2003, 2015, 2027",
@@ -756,10 +756,10 @@
   "Qualities": "Kind, compassionate, imaginative, creative",
   "Weaknesses": "Insecure, indecisive, pessimistic",
   "Most Compatible": "Rabbit, Pig, Horse",
-  "Least Compatible": "Ox, Rat, Dog"
+  "Least Compatible": "Bull, Mouse, Dog"
  },
  {
-  "Zodiac": "Goat",
+  "Zodiac": "Sheep",
   "Start Date": "2003-02-01",
   "End Date": "2004-01-21",
   "Years": "1943, 1955, 1967, 1979, 1991, 2003, 2015, 2027",
@@ -767,10 +767,10 @@
   "Qualities": "Kind, compassionate, imaginative, creative",
   "Weaknesses": "Insecure, indecisive, pessimistic",
   "Most Compatible": "Rabbit, Pig, Horse",
-  "Least Compatible": "Ox, Rat, Dog"
+  "Least Compatible": "Bull, Mouse, Dog"
  },
  {
-  "Zodiac": "Goat",
+  "Zodiac": "Sheep",
   "Start Date": "2015-02-19",
   "End Date": "2016-02-07",
   "Years": "1943, 1955, 1967, 1979, 1991, 2003, 2015, 2027",
@@ -778,10 +778,10 @@
   "Qualities": "Kind, compassionate, imaginative, creative",
   "Weaknesses": "Insecure, indecisive, pessimistic",
   "Most Compatible": "Rabbit, Pig, Horse",
-  "Least Compatible": "Ox, Rat, Dog"
+  "Least Compatible": "Bull, Mouse, Dog"
  },
  {
-  "Zodiac": "Goat",
+  "Zodiac": "Sheep",
   "Start Date": "2027-02-06",
   "End Date": "2028-01-25",
   "Years": "1943, 1955, 1967, 1979, 1991, 2003, 2015, 2027",
@@ -789,7 +789,7 @@
   "Qualities": "Kind, compassionate, imaginative, creative",
   "Weaknesses": "Insecure, indecisive, pessimistic",
   "Most Compatible": "Rabbit, Pig, Horse",
-  "Least Compatible": "Ox, Rat, Dog"
+  "Least Compatible": "Bull, Mouse, Dog"
  },
  {
   "Zodiac": "Monkey",
@@ -799,7 +799,7 @@
   "Element": "Water",
   "Qualities": "Intelligent, witty, curious, mischievous",
   "Weaknesses": "Arrogant, opportunistic, restless",
-  "Most Compatible": "Rat, Dragon, Snake",
+  "Most Compatible": "Mouse, Dragon, Snake",
   "Least Compatible": "Tiger, Pig, Rabbit"
  },
  {
@@ -810,7 +810,7 @@
   "Element": "Wood",
   "Qualities": "Intelligent, witty, curious, mischievous",
   "Weaknesses": "Arrogant, opportunistic, restless",
-  "Most Compatible": "Rat, Dragon, Snake",
+  "Most Compatible": "Mouse, Dragon, Snake",
   "Least Compatible": "Tiger, Pig, Rabbit"
  },
  {
@@ -821,7 +821,7 @@
   "Element": "Fire",
   "Qualities": "Intelligent, witty, curious, mischievous",
   "Weaknesses": "Arrogant, opportunistic, restless",
-  "Most Compatible": "Rat, Dragon, Snake",
+  "Most Compatible": "Mouse, Dragon, Snake",
   "Least Compatible": "Tiger, Pig, Rabbit"
  },
  {
@@ -832,7 +832,7 @@
   "Element": "Earth",
   "Qualities": "Intelligent, witty, curious, mischievous",
   "Weaknesses": "Arrogant, opportunistic, restless",
-  "Most Compatible": "Rat, Dragon, Snake",
+  "Most Compatible": "Mouse, Dragon, Snake",
   "Least Compatible": "Tiger, Pig, Rabbit"
  },
  {
@@ -843,7 +843,7 @@
   "Element": "Metal",
   "Qualities": "Intelligent, witty, curious, mischievous",
   "Weaknesses": "Arrogant, opportunistic, restless",
-  "Most Compatible": "Rat, Dragon, Snake",
+  "Most Compatible": "Mouse, Dragon, Snake",
   "Least Compatible": "Tiger, Pig, Rabbit"
  },
  {
@@ -854,7 +854,7 @@
   "Element": "Water",
   "Qualities": "Intelligent, witty, curious, mischievous",
   "Weaknesses": "Arrogant, opportunistic, restless",
-  "Most Compatible": "Rat, Dragon, Snake",
+  "Most Compatible": "Mouse, Dragon, Snake",
   "Least Compatible": "Tiger, Pig, Rabbit"
  },
  {
@@ -865,7 +865,7 @@
   "Element": "Wood",
   "Qualities": "Intelligent, witty, curious, mischievous",
   "Weaknesses": "Arrogant, opportunistic, restless",
-  "Most Compatible": "Rat, Dragon, Snake",
+  "Most Compatible": "Mouse, Dragon, Snake",
   "Least Compatible": "Tiger, Pig, Rabbit"
  },
  {
@@ -876,7 +876,7 @@
   "Element": "Fire",
   "Qualities": "Intelligent, witty, curious, mischievous",
   "Weaknesses": "Arrogant, opportunistic, restless",
-  "Most Compatible": "Rat, Dragon, Snake",
+  "Most Compatible": "Mouse, Dragon, Snake",
   "Least Compatible": "Tiger, Pig, Rabbit"
  },
  {
@@ -887,7 +887,7 @@
   "Element": "Earth",
   "Qualities": "Intelligent, witty, curious, mischievous",
   "Weaknesses": "Arrogant, opportunistic, restless",
-  "Most Compatible": "Rat, Dragon, Snake",
+  "Most Compatible": "Mouse, Dragon, Snake",
   "Least Compatible": "Tiger, Pig, Rabbit"
  },
  {
@@ -898,8 +898,8 @@
   "Element": "Water",
   "Qualities": "Honest, hardworking, confident, observant",
   "Weaknesses": "Critical, vain, stubborn",
-  "Most Compatible": "Ox, Snake, Dragon",
-  "Least Compatible": "Rabbit, Dog, Rat"
+  "Most Compatible": "Bull, Snake, Dragon",
+  "Least Compatible": "Rabbit, Dog, Mouse"
  },
  {
   "Zodiac": "Rooster",
@@ -909,8 +909,8 @@
   "Element": "Wood",
   "Qualities": "Honest, hardworking, confident, observant",
   "Weaknesses": "Critical, vain, stubborn",
-  "Most Compatible": "Ox, Snake, Dragon",
-  "Least Compatible": "Rabbit, Dog, Rat"
+  "Most Compatible": "Bull, Snake, Dragon",
+  "Least Compatible": "Rabbit, Dog, Mouse"
  },
  {
   "Zodiac": "Rooster",
@@ -920,8 +920,8 @@
   "Element": "Fire",
   "Qualities": "Honest, hardworking, confident, observant",
   "Weaknesses": "Critical, vain, stubborn",
-  "Most Compatible": "Ox, Snake, Dragon",
-  "Least Compatible": "Rabbit, Dog, Rat"
+  "Most Compatible": "Bull, Snake, Dragon",
+  "Least Compatible": "Rabbit, Dog, Mouse"
  },
  {
   "Zodiac": "Rooster",
@@ -931,8 +931,8 @@
   "Element": "Earth",
   "Qualities": "Honest, hardworking, confident, observant",
   "Weaknesses": "Critical, vain, stubborn",
-  "Most Compatible": "Ox, Snake, Dragon",
-  "Least Compatible": "Rabbit, Dog, Rat"
+  "Most Compatible": "Bull, Snake, Dragon",
+  "Least Compatible": "Rabbit, Dog, Mouse"
  },
  {
   "Zodiac": "Rooster",
@@ -942,8 +942,8 @@
   "Element": "Metal",
   "Qualities": "Honest, hardworking, confident, observant",
   "Weaknesses": "Critical, vain, stubborn",
-  "Most Compatible": "Ox, Snake, Dragon",
-  "Least Compatible": "Rabbit, Dog, Rat"
+  "Most Compatible": "Bull, Snake, Dragon",
+  "Least Compatible": "Rabbit, Dog, Mouse"
  },
  {
   "Zodiac": "Rooster",
@@ -953,8 +953,8 @@
   "Element": "Water",
   "Qualities": "Honest, hardworking, confident, observant",
   "Weaknesses": "Critical, vain, stubborn",
-  "Most Compatible": "Ox, Snake, Dragon",
-  "Least Compatible": "Rabbit, Dog, Rat"
+  "Most Compatible": "Bull, Snake, Dragon",
+  "Least Compatible": "Rabbit, Dog, Mouse"
  },
  {
   "Zodiac": "Rooster",
@@ -964,8 +964,8 @@
   "Element": "Wood",
   "Qualities": "Honest, hardworking, confident, observant",
   "Weaknesses": "Critical, vain, stubborn",
-  "Most Compatible": "Ox, Snake, Dragon",
-  "Least Compatible": "Rabbit, Dog, Rat"
+  "Most Compatible": "Bull, Snake, Dragon",
+  "Least Compatible": "Rabbit, Dog, Mouse"
  },
  {
   "Zodiac": "Rooster",
@@ -975,8 +975,8 @@
   "Element": "Fire",
   "Qualities": "Honest, hardworking, confident, observant",
   "Weaknesses": "Critical, vain, stubborn",
-  "Most Compatible": "Ox, Snake, Dragon",
-  "Least Compatible": "Rabbit, Dog, Rat"
+  "Most Compatible": "Bull, Snake, Dragon",
+  "Least Compatible": "Rabbit, Dog, Mouse"
  },
  {
   "Zodiac": "Rooster",
@@ -986,8 +986,8 @@
   "Element": "Earth",
   "Qualities": "Honest, hardworking, confident, observant",
   "Weaknesses": "Critical, vain, stubborn",
-  "Most Compatible": "Ox, Snake, Dragon",
-  "Least Compatible": "Rabbit, Dog, Rat"
+  "Most Compatible": "Bull, Snake, Dragon",
+  "Least Compatible": "Rabbit, Dog, Mouse"
  },
  {
   "Zodiac": "Dog",
@@ -998,7 +998,7 @@
   "Qualities": "Loyal, sincere, diligent, practical",
   "Weaknesses": "Stubborn, reserved, pessimistic",
   "Most Compatible": "Tiger, Horse, Rabbit",
-  "Least Compatible": "Dragon, Rooster, Goat"
+  "Least Compatible": "Dragon, Rooster, Sheep"
  },
  {
   "Zodiac": "Dog",
@@ -1009,7 +1009,7 @@
   "Qualities": "Loyal, sincere, diligent, practical",
   "Weaknesses": "Stubborn, reserved, pessimistic",
   "Most Compatible": "Tiger, Horse, Rabbit",
-  "Least Compatible": "Dragon, Rooster, Goat"
+  "Least Compatible": "Dragon, Rooster, Sheep"
  },
  {
   "Zodiac": "Dog",
@@ -1020,7 +1020,7 @@
   "Qualities": "Loyal, sincere, diligent, practical",
   "Weaknesses": "Stubborn, reserved, pessimistic",
   "Most Compatible": "Tiger, Horse, Rabbit",
-  "Least Compatible": "Dragon, Rooster, Goat"
+  "Least Compatible": "Dragon, Rooster, Sheep"
  },
  {
   "Zodiac": "Dog",
@@ -1031,7 +1031,7 @@
   "Qualities": "Loyal, sincere, diligent, practical",
   "Weaknesses": "Stubborn, reserved, pessimistic",
   "Most Compatible": "Tiger, Horse, Rabbit",
-  "Least Compatible": "Dragon, Rooster, Goat"
+  "Least Compatible": "Dragon, Rooster, Sheep"
  },
  {
   "Zodiac": "Dog",
@@ -1042,7 +1042,7 @@
   "Qualities": "Loyal, sincere, diligent, practical",
   "Weaknesses": "Stubborn, reserved, pessimistic",
   "Most Compatible": "Tiger, Horse, Rabbit",
-  "Least Compatible": "Dragon, Rooster, Goat"
+  "Least Compatible": "Dragon, Rooster, Sheep"
  },
  {
   "Zodiac": "Dog",
@@ -1053,7 +1053,7 @@
   "Qualities": "Loyal, sincere, diligent, practical",
   "Weaknesses": "Stubborn, reserved, pessimistic",
   "Most Compatible": "Tiger, Horse, Rabbit",
-  "Least Compatible": "Dragon, Rooster, Goat"
+  "Least Compatible": "Dragon, Rooster, Sheep"
  },
  {
   "Zodiac": "Dog",
@@ -1064,7 +1064,7 @@
   "Qualities": "Loyal, sincere, diligent, practical",
   "Weaknesses": "Stubborn, reserved, pessimistic",
   "Most Compatible": "Tiger, Horse, Rabbit",
-  "Least Compatible": "Dragon, Rooster, Goat"
+  "Least Compatible": "Dragon, Rooster, Sheep"
  },
  {
   "Zodiac": "Dog",
@@ -1075,7 +1075,7 @@
   "Qualities": "Loyal, sincere, diligent, practical",
   "Weaknesses": "Stubborn, reserved, pessimistic",
   "Most Compatible": "Tiger, Horse, Rabbit",
-  "Least Compatible": "Dragon, Rooster, Goat"
+  "Least Compatible": "Dragon, Rooster, Sheep"
  },
  {
   "Zodiac": "Dog",
@@ -1086,7 +1086,7 @@
   "Qualities": "Loyal, sincere, diligent, practical",
   "Weaknesses": "Stubborn, reserved, pessimistic",
   "Most Compatible": "Tiger, Horse, Rabbit",
-  "Least Compatible": "Dragon, Rooster, Goat"
+  "Least Compatible": "Dragon, Rooster, Sheep"
  },
  {
   "Zodiac": "Pig",
@@ -1096,7 +1096,7 @@
   "Element": "Wood",
   "Qualities": "Compassionate, generous, diligent, optimistic",
   "Weaknesses": "Naive, indulgent, lazy",
-  "Most Compatible": "Rabbit, Goat, Tiger",
+  "Most Compatible": "Rabbit, Sheep, Tiger",
   "Least Compatible": "Monkey, Snake, Rooster"
  },
  {
@@ -1107,7 +1107,7 @@
   "Element": "Fire",
   "Qualities": "Compassionate, generous, diligent, optimistic",
   "Weaknesses": "Naive, indulgent, lazy",
-  "Most Compatible": "Rabbit, Goat, Tiger",
+  "Most Compatible": "Rabbit, Sheep, Tiger",
   "Least Compatible": "Monkey, Snake, Rooster"
  },
  {
@@ -1118,7 +1118,7 @@
   "Element": "Earth",
   "Qualities": "Compassionate, generous, diligent, optimistic",
   "Weaknesses": "Naive, indulgent, lazy",
-  "Most Compatible": "Rabbit, Goat, Tiger",
+  "Most Compatible": "Rabbit, Sheep, Tiger",
   "Least Compatible": "Monkey, Snake, Rooster"
  },
  {
@@ -1129,7 +1129,7 @@
   "Element": "Metal",
   "Qualities": "Compassionate, generous, diligent, optimistic",
   "Weaknesses": "Naive, indulgent, lazy",
-  "Most Compatible": "Rabbit, Goat, Tiger",
+  "Most Compatible": "Rabbit, Sheep, Tiger",
   "Least Compatible": "Monkey, Snake, Rooster"
  },
  {
@@ -1140,7 +1140,7 @@
   "Element": "Water",
   "Qualities": "Compassionate, generous, diligent, optimistic",
   "Weaknesses": "Naive, indulgent, lazy",
-  "Most Compatible": "Rabbit, Goat, Tiger",
+  "Most Compatible": "Rabbit, Sheep, Tiger",
   "Least Compatible": "Monkey, Snake, Rooster"
  },
  {
@@ -1151,7 +1151,7 @@
   "Element": "Wood",
   "Qualities": "Compassionate, generous, diligent, optimistic",
   "Weaknesses": "Naive, indulgent, lazy",
-  "Most Compatible": "Rabbit, Goat, Tiger",
+  "Most Compatible": "Rabbit, Sheep, Tiger",
   "Least Compatible": "Monkey, Snake, Rooster"
  },
  {
@@ -1162,7 +1162,7 @@
   "Element": "Fire",
   "Qualities": "Compassionate, generous, diligent, optimistic",
   "Weaknesses": "Naive, indulgent, lazy",
-  "Most Compatible": "Rabbit, Goat, Tiger",
+  "Most Compatible": "Rabbit, Sheep, Tiger",
   "Least Compatible": "Monkey, Snake, Rooster"
  },
  {
@@ -1173,7 +1173,7 @@
   "Element": "Earth",
   "Qualities": "Compassionate, generous, diligent, optimistic",
   "Weaknesses": "Naive, indulgent, lazy",
-  "Most Compatible": "Rabbit, Goat, Tiger",
+  "Most Compatible": "Rabbit, Sheep, Tiger",
   "Least Compatible": "Monkey, Snake, Rooster"
  },
  {
@@ -1184,7 +1184,7 @@
   "Element": "Metal",
   "Qualities": "Compassionate, generous, diligent, optimistic",
   "Weaknesses": "Naive, indulgent, lazy",
-  "Most Compatible": "Rabbit, Goat, Tiger",
+  "Most Compatible": "Rabbit, Sheep, Tiger",
   "Least Compatible": "Monkey, Snake, Rooster"
  }
 ]
