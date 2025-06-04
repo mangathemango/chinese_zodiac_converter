@@ -117,6 +117,26 @@ const displayCompatibilityResults = (selectedIndex) => {
 		card.textContent = compatibility;
 		resultsDiv.appendChild(card);
 	});
+
+	// const entry = {
+	// 	name,
+	// 	birthDate: birthDate.toDateString(),
+	// 	zodiac: zodiacInfo.Zodiac,
+	// 	element: zodiacInfo.Element,
+	// 	qualities: zodiacInfo.Qualities,
+	// 	weaknesses: zodiacInfo.Weaknesses,
+	// 	mostCompatible: zodiacInfo["Most Compatible"],
+	// 	leastCompatible: zodiacInfo["Least Compatible"]
+	// }
+	document.getElementById("name").value = selectedPerson.name;
+	document.getElementById("birthdate").value = new Date(selectedPerson.birthDate).toISOString().split('T')[0];
+	document.getElementById("animal").textContent = selectedPerson.zodiac;
+	document.getElementById("element").textContent = selectedPerson.element;
+	document.getElementById("qualities").textContent = selectedPerson.qualities;
+	document.getElementById("weaknesses").textContent = selectedPerson.weaknesses;
+	document.getElementById("most-compatible").textContent = selectedPerson.mostCompatible;
+	document.getElementById("least-compatible").textContent = selectedPerson.leastCompatible;
+	document.getElementById("result").classList.remove("hidden");
 }
 
 // Event Listeners
@@ -145,16 +165,6 @@ document.getElementById("zodiacForm").addEventListener("submit", (e) => {
 
 document.getElementById('person-select').addEventListener('change', (e) => {
 	displayCompatibilityResults(e.target.value);
-});
-
-document.getElementById('clear-history-btn').addEventListener('click', () => {
-	if (confirm('Are you sure you want to clear all history?')) {
-		historyData = [];
-		localStorage.removeItem('zodiacHistory');
-		updatePersonSelect();
-		updateHistoryList();
-		document.getElementById('compatibility-results').innerHTML = '';
-	}
 });
 
 // Initialize
